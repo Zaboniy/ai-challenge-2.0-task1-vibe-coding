@@ -17,103 +17,137 @@ const employees = [
         "name": "[EDU] Github Copilot Workshop (18.12.25)",
         "category": "Public Speaking",
         "date": "17-Dec-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] PowerPoint Karaoke #3: The New Year playlist that\n                                saves the holiday",
         "category": "Public Speaking",
         "date": "16-Dec-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] AI Digest #15 16.12.2025",
         "category": "Public Speaking",
         "date": "15-Dec-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] AI Digest #13 18.11.2025",
         "category": "Public Speaking",
         "date": "18-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Building a Web for Humans and Machines 12.11.2025",
         "category": "Public Speaking",
         "date": "12-Nov-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] AI Digest #11 21.10.25",
         "category": "Public Speaking",
         "date": "26-Oct-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] AI Digest #10 (16) – First Global Edition. 07.10.25",
         "category": "Public Speaking",
         "date": "06-Oct-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] AI Panel Discussion with Top Managers 06.10.2025",
         "category": "Public Speaking",
         "date": "05-Oct-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] AI Digest #9 23.09.25",
         "category": "Public Speaking",
         "date": "23-Sep-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] AI Digest #8 9.09.25",
         "category": "Public Speaking",
         "date": "08-Sep-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] AI Digest #7 19.08.25",
         "category": "Public Speaking",
         "date": "20-Aug-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] MCP Workshop 18.07.25",
         "category": "Public Speaking",
         "date": "20-Jul-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] AI Training for Vention employees: Understanding\n                                Artificial Intelligence",
         "category": "Public Speaking",
         "date": "11-Jul-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] AI Digest # 3 24.06.25",
         "category": "Public Speaking",
         "date": "24-Jun-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] AI Digest #1 28.05.25",
         "category": "Public Speaking",
         "date": "27-May-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] AI Cursor Workshop 22.05",
         "category": "Public Speaking",
         "date": "22-May-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[REG] Offline Meetup in Bratislava for Vention Employees:\n                                Code, Coffee &amp; Curiosity: AI-Charged Development Process",
         "category": "Public Speaking",
         "date": "14-May-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -135,73 +169,97 @@ const employees = [
         "name": "[EDU] Workshop: React & Frontend 17.12.25",
         "category": "Public Speaking",
         "date": "17-Dec-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] AI Digest #28 15.12.25",
         "category": "Public Speaking",
         "date": "15-Dec-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Tech Talk: CI/CD Pipelines 26.10.25",
         "category": "Public Speaking",
         "date": "26-Oct-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Tech Talk: Python 06.10.25",
         "category": "Public Speaking",
         "date": "06-Oct-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Lightning Talk: Security Best Practices 23.09.25",
         "category": "Public Speaking",
         "date": "23-Sep-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Workshop: DevOps Practices 20.08.25",
         "category": "Public Speaking",
         "date": "20-Aug-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Lightning Talk: Kubernetes 05.08.25",
         "category": "Public Speaking",
         "date": "05-Aug-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Tech Talk: Data Engineering 20.07.25",
         "category": "Public Speaking",
         "date": "20-Jul-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] PowerPoint Karaoke #19",
         "category": "Public Speaking",
         "date": "10-Jun-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Lightning Talk: API Design 27.05.25",
         "category": "Public Speaking",
         "date": "27-May-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Tech Talk: TypeScript 22.05.25",
         "category": "Public Speaking",
         "date": "22-May-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[REG] Conference: Cloud Architecture 14.05.25",
         "category": "Public Speaking",
         "date": "14-May-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -228,55 +286,73 @@ const employees = [
         "name": "[EDU] PowerPoint Karaoke #13",
         "category": "Public Speaking",
         "date": "16-Dec-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Conference: React & Frontend 15.12.25",
         "category": "Public Speaking",
         "date": "15-Dec-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: DevOps Practices 06.10.25",
         "category": "Education",
         "date": "06-Oct-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: TypeScript",
         "category": "Education",
         "date": "23-Sep-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Tech Talk: Cloud Architecture 08.09.25",
         "category": "Public Speaking",
         "date": "08-Sep-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: Kubernetes",
         "category": "Education",
         "date": "20-Jul-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Conference: Security Best Practices 10.06.25",
         "category": "Public Speaking",
         "date": "10-Jun-2025",
-        "points": "+56"
+        "points": "+56",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: API Design",
         "category": "Education",
         "date": "22-May-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: Python 14.05.25",
         "category": "Education",
         "date": "14-May-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -303,61 +379,81 @@ const employees = [
         "name": "[REG] Conference: System Design 17.12.25",
         "category": "Public Speaking",
         "date": "17-Dec-2025",
-        "points": "+56"
+        "points": "+56",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Workshop: Kubernetes 16.12.25",
         "category": "Public Speaking",
         "date": "16-Dec-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: React & Frontend",
         "category": "Education",
         "date": "15-Dec-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Internal course: Python",
         "category": "Education",
         "date": "18-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Tech Talk: TypeScript 12.11.25",
         "category": "Public Speaking",
         "date": "12-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: Security Best Practices",
         "category": "Education",
         "date": "05-Nov-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Tech Talk: DevOps Practices 23.09.25",
         "category": "Public Speaking",
         "date": "23-Sep-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: API Design",
         "category": "Education",
         "date": "05-Aug-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: Cloud Architecture",
         "category": "Education",
         "date": "20-Jul-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Workshop: AI & Machine Learning 27.05.25",
         "category": "Public Speaking",
         "date": "27-May-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -379,67 +475,89 @@ const employees = [
         "name": "[EDU] Online course: System Design",
         "category": "Education",
         "date": "17-Dec-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: API Design",
         "category": "Education",
         "date": "15-Dec-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: DevOps Practices",
         "category": "Education",
         "date": "12-Nov-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: AI & Machine Learning",
         "category": "Education",
         "date": "05-Nov-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: React & Frontend 06.10.25",
         "category": "Education",
         "date": "06-Oct-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: TypeScript",
         "category": "Education",
         "date": "20-Aug-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: Cloud Architecture",
         "category": "Education",
         "date": "08-Jul-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: Python",
         "category": "Education",
         "date": "24-Jun-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: Security Best Practices",
         "category": "Education",
         "date": "27-May-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: CI/CD Pipelines 22.05.25",
         "category": "Education",
         "date": "22-May-2025",
-        "points": "+48"
+        "points": "+48",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: Kubernetes 14.05.25",
         "category": "Education",
         "date": "14-May-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -466,49 +584,65 @@ const employees = [
         "name": "[REG] Training: React & Frontend 18.11.25",
         "category": "Education",
         "date": "18-Nov-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Conference: Kubernetes 12.11.25",
         "category": "Public Speaking",
         "date": "12-Nov-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] AI Digest #5 26.10.25",
         "category": "Public Speaking",
         "date": "26-Oct-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: DevOps Practices",
         "category": "Education",
         "date": "06-Oct-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] PowerPoint Karaoke #4",
         "category": "Public Speaking",
         "date": "08-Sep-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Meetup: API Design 20.08.25",
         "category": "Public Speaking",
         "date": "20-Aug-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Meetup: Python 05.08.25",
         "category": "Public Speaking",
         "date": "05-Aug-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: TypeScript 22.05.25",
         "category": "Education",
         "date": "22-May-2025",
-        "points": "+48"
+        "points": "+48",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -530,73 +664,97 @@ const employees = [
         "name": "[REG] Workshop attendance: Cloud Architecture",
         "category": "Education",
         "date": "17-Dec-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Internal course: Data Engineering",
         "category": "Education",
         "date": "15-Dec-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: TypeScript",
         "category": "Education",
         "date": "18-Nov-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: API Design 12.11.25",
         "category": "Education",
         "date": "12-Nov-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: DevOps Practices",
         "category": "Education",
         "date": "05-Nov-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: Kubernetes",
         "category": "Education",
         "date": "06-Oct-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: CI/CD Pipelines",
         "category": "Education",
         "date": "23-Sep-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: Python",
         "category": "Education",
         "date": "05-Aug-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: React & Frontend",
         "category": "Education",
         "date": "20-Jul-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: AI & Machine Learning",
         "category": "Education",
         "date": "10-Jun-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: System Design",
         "category": "Education",
         "date": "22-May-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: Security Best Practices",
         "category": "Education",
         "date": "14-May-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -618,49 +776,65 @@ const employees = [
         "name": "[REG] Training: TypeScript 15.12.25",
         "category": "Education",
         "date": "15-Dec-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: Kubernetes 18.11.25",
         "category": "Education",
         "date": "18-Nov-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: AI & Machine Learning",
         "category": "Education",
         "date": "12-Nov-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: DevOps Practices",
         "category": "Education",
         "date": "05-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: Cloud Architecture",
         "category": "Education",
         "date": "08-Sep-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: Python 24.06.25",
         "category": "Education",
         "date": "24-Jun-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: API Design",
         "category": "Education",
         "date": "10-Jun-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: React & Frontend",
         "category": "Education",
         "date": "27-May-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -682,55 +856,73 @@ const employees = [
         "name": "[EDU] Internal course: Python",
         "category": "Education",
         "date": "16-Dec-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: Cloud Architecture",
         "category": "Education",
         "date": "26-Oct-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: Kubernetes",
         "category": "Education",
         "date": "08-Sep-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Internal course: AI & Machine Learning",
         "category": "Education",
         "date": "20-Aug-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Internal course: React & Frontend",
         "category": "Education",
         "date": "05-Aug-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: API Design",
         "category": "Education",
         "date": "08-Jul-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: DevOps Practices",
         "category": "Education",
         "date": "24-Jun-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: TypeScript 22.05.25",
         "category": "Education",
         "date": "22-May-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: Security Best Practices 14.05.25",
         "category": "Education",
         "date": "14-May-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -752,97 +944,129 @@ const employees = [
         "name": "[EDU] Online course: Kubernetes",
         "category": "Education",
         "date": "17-Dec-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: Cloud Architecture",
         "category": "Education",
         "date": "15-Dec-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: DevOps Practices",
         "category": "Education",
         "date": "18-Nov-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: React & Frontend",
         "category": "Education",
         "date": "12-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: API Design",
         "category": "Education",
         "date": "05-Nov-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: Data Engineering",
         "category": "Education",
         "date": "26-Oct-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Internal course: Microservices",
         "category": "Education",
         "date": "06-Oct-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: Security Best Practices",
         "category": "Education",
         "date": "23-Sep-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: AI & Machine Learning",
         "category": "Education",
         "date": "20-Aug-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: Software Testing",
         "category": "Education",
         "date": "05-Aug-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: System Design",
         "category": "Education",
         "date": "20-Jul-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: Docker",
         "category": "Education",
         "date": "08-Jul-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: CI/CD Pipelines",
         "category": "Education",
         "date": "24-Jun-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: Clean Code",
         "category": "Education",
         "date": "27-May-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: TypeScript 22.05.25",
         "category": "Education",
         "date": "22-May-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: Python",
         "category": "Education",
         "date": "14-May-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -864,73 +1088,97 @@ const employees = [
         "name": "[EDU] Certification: Python",
         "category": "Education",
         "date": "15-Dec-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: DevOps Practices",
         "category": "Education",
         "date": "18-Nov-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: System Design",
         "category": "Education",
         "date": "12-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: API Design",
         "category": "Education",
         "date": "05-Nov-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: AI & Machine Learning",
         "category": "Education",
         "date": "26-Oct-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: CI/CD Pipelines",
         "category": "Education",
         "date": "08-Sep-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: Kubernetes",
         "category": "Education",
         "date": "05-Aug-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: TypeScript 08.07.25",
         "category": "Education",
         "date": "08-Jul-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: Security Best Practices",
         "category": "Education",
         "date": "24-Jun-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: React & Frontend",
         "category": "Education",
         "date": "10-Jun-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: Cloud Architecture",
         "category": "Education",
         "date": "22-May-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: Data Engineering",
         "category": "Education",
         "date": "14-May-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -957,49 +1205,65 @@ const employees = [
         "name": "[REG] Training: Cloud Architecture 17.12.25",
         "category": "Education",
         "date": "17-Dec-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Student Q&A: Python",
         "category": "University Partnership",
         "date": "16-Dec-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Student Q&A: AI & Machine Learning",
         "category": "University Partnership",
         "date": "23-Sep-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: Kubernetes",
         "category": "Education",
         "date": "08-Sep-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: React & Frontend 20.08.25",
         "category": "Education",
         "date": "20-Aug-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: TypeScript",
         "category": "Education",
         "date": "20-Jul-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: API Design",
         "category": "Education",
         "date": "24-Jun-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: DevOps Practices",
         "category": "Education",
         "date": "10-Jun-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -1026,43 +1290,57 @@ const employees = [
         "name": "[REG] University mentoring 17.12.25",
         "category": "University Partnership",
         "date": "17-Dec-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: Python",
         "category": "Education",
         "date": "05-Nov-2025",
-        "points": "+24"
+        "points": "+24",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: Cloud Architecture",
         "category": "Education",
         "date": "08-Sep-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: AI & Machine Learning",
         "category": "Education",
         "date": "05-Aug-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: Kubernetes",
         "category": "Education",
         "date": "20-Jul-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: React & Frontend 27.05.25",
         "category": "Education",
         "date": "27-May-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: API Design",
         "category": "Education",
         "date": "14-May-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -1089,49 +1367,65 @@ const employees = [
         "name": "[EDU] Internal course: Cloud Architecture",
         "category": "Education",
         "date": "16-Dec-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Internship mentoring 15.12.25",
         "category": "University Partnership",
         "date": "15-Dec-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Student Q&A: Kubernetes",
         "category": "University Partnership",
         "date": "12-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: API Design 05.11.25",
         "category": "Education",
         "date": "05-Nov-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] University mentoring 06.10.25",
         "category": "University Partnership",
         "date": "06-Oct-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Internal course: DevOps Practices",
         "category": "Education",
         "date": "23-Sep-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: React & Frontend",
         "category": "Education",
         "date": "08-Sep-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: TypeScript",
         "category": "Education",
         "date": "20-Aug-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       }
     ]
   },
@@ -1158,43 +1452,57 @@ const employees = [
         "name": "[REG] Internship mentoring 17.12.25",
         "category": "University Partnership",
         "date": "17-Dec-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Internship mentoring 12.11.25",
         "category": "University Partnership",
         "date": "12-Nov-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Internal course: AI & Machine Learning",
         "category": "Education",
         "date": "05-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: DevOps Practices",
         "category": "Education",
         "date": "23-Sep-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: React & Frontend",
         "category": "Education",
         "date": "20-Jul-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Campus talk: Python 10.06.25",
         "category": "University Partnership",
         "date": "10-Jun-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: API Design",
         "category": "Education",
         "date": "14-May-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -1216,37 +1524,49 @@ const employees = [
         "name": "[REG] Workshop attendance: AI & Machine Learning",
         "category": "Education",
         "date": "17-Dec-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: React & Frontend 15.12.25",
         "category": "Education",
         "date": "15-Dec-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: API Design",
         "category": "Education",
         "date": "18-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: Kubernetes",
         "category": "Education",
         "date": "05-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: DevOps Practices 27.05.25",
         "category": "Education",
         "date": "27-May-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: Cloud Architecture",
         "category": "Education",
         "date": "14-May-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -1268,73 +1588,97 @@ const employees = [
         "name": "[EDU] Certification: DevOps Practices",
         "category": "Education",
         "date": "17-Dec-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: Security Best Practices",
         "category": "Education",
         "date": "16-Dec-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: System Design",
         "category": "Education",
         "date": "15-Dec-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: Kubernetes",
         "category": "Education",
         "date": "18-Nov-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: React & Frontend",
         "category": "Education",
         "date": "23-Sep-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: Python",
         "category": "Education",
         "date": "08-Sep-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: Cloud Architecture",
         "category": "Education",
         "date": "05-Aug-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: CI/CD Pipelines",
         "category": "Education",
         "date": "08-Jul-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: AI & Machine Learning",
         "category": "Education",
         "date": "24-Jun-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: TypeScript",
         "category": "Education",
         "date": "10-Jun-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: Data Engineering",
         "category": "Education",
         "date": "27-May-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: API Design",
         "category": "Education",
         "date": "22-May-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -1356,55 +1700,73 @@ const employees = [
         "name": "[EDU] Lightning Talk: AI & Machine Learning 15.12.25",
         "category": "Public Speaking",
         "date": "15-Dec-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Lightning Talk: DevOps Practices 18.11.25",
         "category": "Public Speaking",
         "date": "18-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Lightning Talk: Kubernetes 12.11.25",
         "category": "Public Speaking",
         "date": "12-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] PowerPoint Karaoke #7",
         "category": "Public Speaking",
         "date": "05-Nov-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] PowerPoint Karaoke #8",
         "category": "Public Speaking",
         "date": "06-Oct-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Meetup: TypeScript 08.09.25",
         "category": "Public Speaking",
         "date": "08-Sep-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Meetup: Cloud Architecture 20.08.25",
         "category": "Public Speaking",
         "date": "20-Aug-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Conference: React & Frontend 20.07.25",
         "category": "Public Speaking",
         "date": "20-Jul-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Meetup: Security Best Practices 24.06.25",
         "category": "Public Speaking",
         "date": "24-Jun-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -1426,31 +1788,41 @@ const employees = [
         "name": "[EDU] Internal course: AI & Machine Learning",
         "category": "Education",
         "date": "18-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: Cloud Architecture 12.11.25",
         "category": "Education",
         "date": "12-Nov-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: React & Frontend 24.06.25",
         "category": "Education",
         "date": "24-Jun-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: Kubernetes",
         "category": "Education",
         "date": "27-May-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: DevOps Practices 14.05.25",
         "category": "Education",
         "date": "14-May-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -1472,55 +1844,73 @@ const employees = [
         "name": "[EDU] Certification: Cloud Architecture",
         "category": "Education",
         "date": "18-Nov-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: API Design",
         "category": "Education",
         "date": "05-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: Security Best Practices",
         "category": "Education",
         "date": "26-Oct-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: Kubernetes",
         "category": "Education",
         "date": "08-Sep-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Internal course: DevOps Practices",
         "category": "Education",
         "date": "20-Aug-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: AI & Machine Learning",
         "category": "Education",
         "date": "20-Jul-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: TypeScript",
         "category": "Education",
         "date": "24-Jun-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: Python",
         "category": "Education",
         "date": "10-Jun-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: React & Frontend",
         "category": "Education",
         "date": "22-May-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -1542,37 +1932,49 @@ const employees = [
         "name": "[REG] Conference: Kubernetes 15.12.25",
         "category": "Public Speaking",
         "date": "15-Dec-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Workshop: React & Frontend 26.10.25",
         "category": "Public Speaking",
         "date": "26-Oct-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Workshop: API Design 08.09.25",
         "category": "Public Speaking",
         "date": "08-Sep-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] PowerPoint Karaoke #18",
         "category": "Public Speaking",
         "date": "24-Jun-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Webinar: AI & Machine Learning 27.05.25",
         "category": "Public Speaking",
         "date": "27-May-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] AI Digest #17 22.05.25",
         "category": "Public Speaking",
         "date": "22-May-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -1594,37 +1996,49 @@ const employees = [
         "name": "[EDU] Webinar: AI & Machine Learning 16.12.25",
         "category": "Public Speaking",
         "date": "16-Dec-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Conference: API Design 05.08.25",
         "category": "Public Speaking",
         "date": "05-Aug-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Workshop: React & Frontend 20.07.25",
         "category": "Public Speaking",
         "date": "20-Jul-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Conference: DevOps Practices 08.07.25",
         "category": "Public Speaking",
         "date": "08-Jul-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] PowerPoint Karaoke #21",
         "category": "Public Speaking",
         "date": "27-May-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Tech Talk: Kubernetes 14.05.25",
         "category": "Public Speaking",
         "date": "14-May-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -1651,55 +2065,73 @@ const employees = [
         "name": "[REG] Meetup: DevOps Practices 17.12.25",
         "category": "Public Speaking",
         "date": "17-Dec-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: Security Best Practices",
         "category": "Education",
         "date": "15-Dec-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] AI Digest #4 12.11.25",
         "category": "Public Speaking",
         "date": "12-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Webinar: React & Frontend 06.10.25",
         "category": "Public Speaking",
         "date": "06-Oct-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Internal course: Kubernetes",
         "category": "Education",
         "date": "08-Sep-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: TypeScript",
         "category": "Education",
         "date": "20-Aug-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: API Design",
         "category": "Education",
         "date": "20-Jul-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: Python",
         "category": "Education",
         "date": "24-Jun-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: Cloud Architecture",
         "category": "Education",
         "date": "10-Jun-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -1726,25 +2158,33 @@ const employees = [
         "name": "[REG] Training: Kubernetes 18.11.25",
         "category": "Education",
         "date": "18-Nov-2025",
-        "points": "+48"
+        "points": "+48",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Internship mentoring 05.11.25",
         "category": "University Partnership",
         "date": "05-Nov-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Campus talk: Cloud Architecture 23.09.25",
         "category": "University Partnership",
         "date": "23-Sep-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: AI & Machine Learning 08.07.25",
         "category": "Education",
         "date": "08-Jul-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q3",
+        "year": "2025"
       }
     ]
   },
@@ -1766,73 +2206,97 @@ const employees = [
         "name": "[EDU] Internal course: Cloud Architecture",
         "category": "Education",
         "date": "16-Dec-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: System Design",
         "category": "Education",
         "date": "18-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: Python",
         "category": "Education",
         "date": "12-Nov-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: API Design",
         "category": "Education",
         "date": "06-Oct-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: Kubernetes",
         "category": "Education",
         "date": "08-Sep-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: AI & Machine Learning",
         "category": "Education",
         "date": "20-Aug-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: React & Frontend",
         "category": "Education",
         "date": "05-Aug-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: DevOps Practices",
         "category": "Education",
         "date": "24-Jun-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Internal course: CI/CD Pipelines",
         "category": "Education",
         "date": "10-Jun-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: Data Engineering",
         "category": "Education",
         "date": "27-May-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Internal course: TypeScript",
         "category": "Education",
         "date": "22-May-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: Security Best Practices",
         "category": "Education",
         "date": "14-May-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -1854,67 +2318,89 @@ const employees = [
         "name": "[EDU] Certification: CI/CD Pipelines",
         "category": "Education",
         "date": "17-Dec-2025",
-        "points": "+24"
+        "points": "+24",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: Cloud Architecture",
         "category": "Education",
         "date": "16-Dec-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: DevOps Practices",
         "category": "Education",
         "date": "18-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: AI & Machine Learning",
         "category": "Education",
         "date": "12-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: TypeScript",
         "category": "Education",
         "date": "05-Nov-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: Python",
         "category": "Education",
         "date": "26-Oct-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: Kubernetes",
         "category": "Education",
         "date": "06-Oct-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: API Design",
         "category": "Education",
         "date": "20-Aug-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: System Design",
         "category": "Education",
         "date": "05-Aug-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: Security Best Practices",
         "category": "Education",
         "date": "20-Jul-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: React & Frontend",
         "category": "Education",
         "date": "08-Jul-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       }
     ]
   },
@@ -1936,61 +2422,81 @@ const employees = [
         "name": "[EDU] Course: Kubernetes",
         "category": "Education",
         "date": "17-Dec-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Internal course: Cloud Architecture",
         "category": "Education",
         "date": "16-Dec-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: Python 15.12.25",
         "category": "Education",
         "date": "15-Dec-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: React & Frontend",
         "category": "Education",
         "date": "18-Nov-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: DevOps Practices",
         "category": "Education",
         "date": "26-Oct-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: API Design",
         "category": "Education",
         "date": "06-Oct-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: AI & Machine Learning",
         "category": "Education",
         "date": "23-Sep-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: Security Best Practices",
         "category": "Education",
         "date": "20-Aug-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: TypeScript",
         "category": "Education",
         "date": "05-Aug-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: System Design",
         "category": "Education",
         "date": "14-May-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -2012,25 +2518,33 @@ const employees = [
         "name": "[REG] Training: Kubernetes 17.12.25",
         "category": "Education",
         "date": "17-Dec-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: Cloud Architecture 18.11.25",
         "category": "Education",
         "date": "18-Nov-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: AI & Machine Learning",
         "category": "Education",
         "date": "05-Aug-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: DevOps Practices",
         "category": "Education",
         "date": "24-Jun-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -2052,67 +2566,89 @@ const employees = [
         "name": "[EDU] Certification: Kubernetes",
         "category": "Education",
         "date": "15-Dec-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: CI/CD Pipelines",
         "category": "Education",
         "date": "18-Nov-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Internal course: System Design",
         "category": "Education",
         "date": "12-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: API Design",
         "category": "Education",
         "date": "05-Nov-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: AI & Machine Learning",
         "category": "Education",
         "date": "26-Oct-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: Cloud Architecture",
         "category": "Education",
         "date": "06-Oct-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: Python",
         "category": "Education",
         "date": "23-Sep-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: DevOps Practices",
         "category": "Education",
         "date": "08-Sep-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Internal course: TypeScript",
         "category": "Education",
         "date": "20-Jul-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Internal course: Security Best Practices",
         "category": "Education",
         "date": "24-Jun-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: React & Frontend",
         "category": "Education",
         "date": "14-May-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -2134,37 +2670,49 @@ const employees = [
         "name": "[EDU] Webinar: AI & Machine Learning 12.11.25",
         "category": "Public Speaking",
         "date": "12-Nov-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Tech Talk: React & Frontend 05.11.25",
         "category": "Public Speaking",
         "date": "05-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Conference: API Design 23.09.25",
         "category": "Public Speaking",
         "date": "23-Sep-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Lightning Talk: Kubernetes 05.08.25",
         "category": "Public Speaking",
         "date": "05-Aug-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Meetup: DevOps Practices 24.06.25",
         "category": "Public Speaking",
         "date": "24-Jun-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Tech Talk: Cloud Architecture 27.05.25",
         "category": "Public Speaking",
         "date": "27-May-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -2191,43 +2739,57 @@ const employees = [
         "name": "[EDU] Lightning Talk: API Design 15.12.25",
         "category": "Public Speaking",
         "date": "15-Dec-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: AI & Machine Learning",
         "category": "Education",
         "date": "05-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: Python",
         "category": "Education",
         "date": "05-Aug-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: DevOps Practices 24.06.25",
         "category": "Education",
         "date": "24-Jun-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: Cloud Architecture",
         "category": "Education",
         "date": "10-Jun-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: Kubernetes",
         "category": "Education",
         "date": "22-May-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Lightning Talk: React & Frontend 14.05.25",
         "category": "Public Speaking",
         "date": "14-May-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -2249,49 +2811,65 @@ const employees = [
         "name": "[EDU] Certification: API Design",
         "category": "Education",
         "date": "12-Nov-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Internal course: React & Frontend",
         "category": "Education",
         "date": "05-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: AI & Machine Learning 26.10.25",
         "category": "Education",
         "date": "26-Oct-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: Cloud Architecture",
         "category": "Education",
         "date": "20-Aug-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: Python",
         "category": "Education",
         "date": "05-Aug-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: DevOps Practices",
         "category": "Education",
         "date": "20-Jul-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: Kubernetes",
         "category": "Education",
         "date": "10-Jun-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: TypeScript",
         "category": "Education",
         "date": "22-May-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -2313,37 +2891,49 @@ const employees = [
         "name": "[EDU] Certification: API Design",
         "category": "Education",
         "date": "15-Dec-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: Cloud Architecture",
         "category": "Education",
         "date": "23-Sep-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: AI & Machine Learning",
         "category": "Education",
         "date": "05-Aug-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: Kubernetes",
         "category": "Education",
         "date": "08-Jul-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: React & Frontend",
         "category": "Education",
         "date": "24-Jun-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: DevOps Practices",
         "category": "Education",
         "date": "14-May-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -2370,31 +2960,41 @@ const employees = [
         "name": "[EDU] Guest lecture: Kubernetes 16.12.25",
         "category": "University Partnership",
         "date": "16-Dec-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Internship mentoring 18.11.25",
         "category": "University Partnership",
         "date": "18-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] University mentoring 23.09.25",
         "category": "University Partnership",
         "date": "23-Sep-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Student Q&A: Cloud Architecture",
         "category": "University Partnership",
         "date": "24-Jun-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[REG] Internship mentoring 27.05.25",
         "category": "University Partnership",
         "date": "27-May-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -2416,43 +3016,57 @@ const employees = [
         "name": "[EDU] Campus talk: React & Frontend 17.12.25",
         "category": "University Partnership",
         "date": "17-Dec-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Campus talk: DevOps Practices 06.10.25",
         "category": "University Partnership",
         "date": "06-Oct-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Student Q&A: AI & Machine Learning",
         "category": "University Partnership",
         "date": "23-Sep-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Guest lecture: Cloud Architecture 20.08.25",
         "category": "University Partnership",
         "date": "20-Aug-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] University mentoring 05.08.25",
         "category": "University Partnership",
         "date": "05-Aug-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Student Q&A: Kubernetes",
         "category": "University Partnership",
         "date": "24-Jun-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[REG] University mentoring 22.05.25",
         "category": "University Partnership",
         "date": "22-May-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -2474,43 +3088,57 @@ const employees = [
         "name": "[EDU] Course: Kubernetes",
         "category": "Education",
         "date": "17-Dec-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: DevOps Practices",
         "category": "Education",
         "date": "16-Dec-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: React & Frontend 26.10.25",
         "category": "Education",
         "date": "26-Oct-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: Cloud Architecture",
         "category": "Education",
         "date": "06-Oct-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: Python",
         "category": "Education",
         "date": "08-Sep-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: API Design",
         "category": "Education",
         "date": "24-Jun-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: AI & Machine Learning",
         "category": "Education",
         "date": "10-Jun-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -2537,31 +3165,41 @@ const employees = [
         "name": "[REG] Workshop attendance: React & Frontend",
         "category": "Education",
         "date": "26-Oct-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: Cloud Architecture 06.10.25",
         "category": "Education",
         "date": "06-Oct-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: Kubernetes",
         "category": "Education",
         "date": "23-Sep-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Lightning Talk: DevOps Practices 08.09.25",
         "category": "Public Speaking",
         "date": "08-Sep-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: AI & Machine Learning",
         "category": "Education",
         "date": "08-Jul-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       }
     ]
   },
@@ -2583,43 +3221,57 @@ const employees = [
         "name": "[EDU] Tech Talk: API Design 16.12.25",
         "category": "Public Speaking",
         "date": "16-Dec-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Workshop: AI & Machine Learning 15.12.25",
         "category": "Public Speaking",
         "date": "15-Dec-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] PowerPoint Karaoke #16",
         "category": "Public Speaking",
         "date": "08-Sep-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] AI Digest #18 05.08.25",
         "category": "Public Speaking",
         "date": "05-Aug-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] AI Digest #19 20.07.25",
         "category": "Public Speaking",
         "date": "20-Jul-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Tech Talk: DevOps Practices 22.05.25",
         "category": "Public Speaking",
         "date": "22-May-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Webinar: Python 14.05.25",
         "category": "Public Speaking",
         "date": "14-May-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -2641,37 +3293,49 @@ const employees = [
         "name": "[EDU] Self-study: AI & Machine Learning",
         "category": "Education",
         "date": "17-Dec-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: DevOps Practices",
         "category": "Education",
         "date": "05-Nov-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: Cloud Architecture",
         "category": "Education",
         "date": "26-Oct-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: Kubernetes 08.09.25",
         "category": "Education",
         "date": "08-Sep-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: API Design 20.07.25",
         "category": "Education",
         "date": "20-Jul-2025",
-        "points": "+24"
+        "points": "+24",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: React & Frontend",
         "category": "Education",
         "date": "22-May-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -2693,31 +3357,41 @@ const employees = [
         "name": "[EDU] Student Q&A: DevOps Practices",
         "category": "University Partnership",
         "date": "20-Aug-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Student Q&A: Kubernetes",
         "category": "University Partnership",
         "date": "20-Jul-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Internship mentoring 24.06.25",
         "category": "University Partnership",
         "date": "24-Jun-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Guest lecture: AI & Machine Learning 10.06.25",
         "category": "University Partnership",
         "date": "10-Jun-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Student Q&A: React & Frontend",
         "category": "University Partnership",
         "date": "27-May-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -2739,37 +3413,49 @@ const employees = [
         "name": "[REG] Workshop attendance: Cloud Architecture",
         "category": "Education",
         "date": "17-Dec-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: Kubernetes",
         "category": "Education",
         "date": "15-Dec-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: AI & Machine Learning",
         "category": "Education",
         "date": "12-Nov-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: API Design",
         "category": "Education",
         "date": "05-Nov-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: React & Frontend 08.07.25",
         "category": "Education",
         "date": "08-Jul-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: DevOps Practices",
         "category": "Education",
         "date": "22-May-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -2791,67 +3477,89 @@ const employees = [
         "name": "[EDU] Internal course: Cloud Architecture",
         "category": "Education",
         "date": "17-Dec-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: React & Frontend",
         "category": "Education",
         "date": "16-Dec-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: AI & Machine Learning",
         "category": "Education",
         "date": "15-Dec-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: Security Best Practices",
         "category": "Education",
         "date": "12-Nov-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: TypeScript",
         "category": "Education",
         "date": "26-Oct-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Internal course: Kubernetes",
         "category": "Education",
         "date": "06-Oct-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: System Design",
         "category": "Education",
         "date": "08-Sep-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: Python",
         "category": "Education",
         "date": "20-Jul-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: DevOps Practices",
         "category": "Education",
         "date": "08-Jul-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: API Design",
         "category": "Education",
         "date": "24-Jun-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: CI/CD Pipelines 14.05.25",
         "category": "Education",
         "date": "14-May-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -2878,37 +3586,49 @@ const employees = [
         "name": "[EDU] Lightning Talk: DevOps Practices 16.12.25",
         "category": "Public Speaking",
         "date": "16-Dec-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Meetup: React & Frontend 15.12.25",
         "category": "Public Speaking",
         "date": "15-Dec-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: API Design 05.11.25",
         "category": "Education",
         "date": "05-Nov-2025",
-        "points": "+24"
+        "points": "+24",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: AI & Machine Learning",
         "category": "Education",
         "date": "05-Aug-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] AI Digest #8 24.06.25",
         "category": "Public Speaking",
         "date": "24-Jun-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: Kubernetes",
         "category": "Education",
         "date": "27-May-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -2930,37 +3650,49 @@ const employees = [
         "name": "[REG] Workshop attendance: API Design",
         "category": "Education",
         "date": "17-Dec-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: Cloud Architecture",
         "category": "Education",
         "date": "18-Nov-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: Kubernetes",
         "category": "Education",
         "date": "06-Oct-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: React & Frontend",
         "category": "Education",
         "date": "23-Sep-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: AI & Machine Learning",
         "category": "Education",
         "date": "08-Sep-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Internal course: DevOps Practices",
         "category": "Education",
         "date": "20-Jul-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       }
     ]
   },
@@ -2987,25 +3719,33 @@ const employees = [
         "name": "[EDU] Tech Talk: DevOps Practices 05.11.25",
         "category": "Public Speaking",
         "date": "05-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] University mentoring 06.10.25",
         "category": "University Partnership",
         "date": "06-Oct-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Conference: Kubernetes 22.05.25",
         "category": "Public Speaking",
         "date": "22-May-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[REG] Internship mentoring 14.05.25",
         "category": "University Partnership",
         "date": "14-May-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -3027,31 +3767,41 @@ const employees = [
         "name": "[EDU] AI Digest #23 15.12.25",
         "category": "Public Speaking",
         "date": "15-Dec-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] PowerPoint Karaoke #24",
         "category": "Public Speaking",
         "date": "05-Nov-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] PowerPoint Karaoke #21",
         "category": "Public Speaking",
         "date": "20-Jul-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Conference: Cloud Architecture 24.06.25",
         "category": "Public Speaking",
         "date": "24-Jun-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Workshop: React & Frontend 22.05.25",
         "category": "Public Speaking",
         "date": "22-May-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -3078,31 +3828,41 @@ const employees = [
         "name": "[EDU] Self-study: Kubernetes",
         "category": "Education",
         "date": "17-Dec-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Lightning Talk: Cloud Architecture 15.12.25",
         "category": "Public Speaking",
         "date": "15-Dec-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] AI Digest #6 06.10.25",
         "category": "Public Speaking",
         "date": "06-Oct-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Meetup: React & Frontend 20.08.25",
         "category": "Public Speaking",
         "date": "20-Aug-2025",
-        "points": "+24"
+        "points": "+24",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: AI & Machine Learning 27.05.25",
         "category": "Education",
         "date": "27-May-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -3124,49 +3884,65 @@ const employees = [
         "name": "[EDU] Internal course: AI & Machine Learning",
         "category": "Education",
         "date": "18-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: API Design",
         "category": "Education",
         "date": "26-Oct-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: React & Frontend",
         "category": "Education",
         "date": "06-Oct-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: Python",
         "category": "Education",
         "date": "05-Aug-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: Cloud Architecture",
         "category": "Education",
         "date": "08-Jul-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Internal course: DevOps Practices",
         "category": "Education",
         "date": "24-Jun-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: Kubernetes",
         "category": "Education",
         "date": "27-May-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: TypeScript",
         "category": "Education",
         "date": "14-May-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -3193,37 +3969,49 @@ const employees = [
         "name": "[EDU] Course: React & Frontend",
         "category": "Education",
         "date": "17-Dec-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: Cloud Architecture",
         "category": "Education",
         "date": "15-Dec-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: AI & Machine Learning",
         "category": "Education",
         "date": "06-Oct-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: DevOps Practices",
         "category": "Education",
         "date": "20-Aug-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Internship mentoring 20.07.25",
         "category": "University Partnership",
         "date": "20-Jul-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: Kubernetes",
         "category": "Education",
         "date": "27-May-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -3245,37 +4033,49 @@ const employees = [
         "name": "[EDU] Certification: Cloud Architecture",
         "category": "Education",
         "date": "15-Dec-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: API Design",
         "category": "Education",
         "date": "05-Nov-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: AI & Machine Learning",
         "category": "Education",
         "date": "06-Oct-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: DevOps Practices",
         "category": "Education",
         "date": "08-Jul-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: React & Frontend 27.05.25",
         "category": "Education",
         "date": "27-May-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: Kubernetes",
         "category": "Education",
         "date": "14-May-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -3297,49 +4097,65 @@ const employees = [
         "name": "[EDU] Internal course: DevOps Practices",
         "category": "Education",
         "date": "15-Dec-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: Cloud Architecture",
         "category": "Education",
         "date": "18-Nov-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: React & Frontend",
         "category": "Education",
         "date": "12-Nov-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: Kubernetes",
         "category": "Education",
         "date": "26-Oct-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: API Design",
         "category": "Education",
         "date": "20-Aug-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: AI & Machine Learning",
         "category": "Education",
         "date": "08-Jul-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: TypeScript",
         "category": "Education",
         "date": "24-Jun-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: Python",
         "category": "Education",
         "date": "22-May-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -3361,49 +4177,65 @@ const employees = [
         "name": "[EDU] Book Club: DevOps Practices",
         "category": "Education",
         "date": "16-Dec-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: Kubernetes",
         "category": "Education",
         "date": "12-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: React & Frontend",
         "category": "Education",
         "date": "26-Oct-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: Cloud Architecture",
         "category": "Education",
         "date": "06-Oct-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: TypeScript 08.09.25",
         "category": "Education",
         "date": "08-Sep-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Internal course: API Design",
         "category": "Education",
         "date": "20-Aug-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: Python",
         "category": "Education",
         "date": "27-May-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: AI & Machine Learning",
         "category": "Education",
         "date": "14-May-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -3425,31 +4257,41 @@ const employees = [
         "name": "[REG] Training: Cloud Architecture 15.12.25",
         "category": "Education",
         "date": "15-Dec-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: AI & Machine Learning",
         "category": "Education",
         "date": "06-Oct-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: DevOps Practices",
         "category": "Education",
         "date": "08-Sep-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: React & Frontend",
         "category": "Education",
         "date": "24-Jun-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Internal course: Kubernetes",
         "category": "Education",
         "date": "27-May-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -3471,31 +4313,41 @@ const employees = [
         "name": "[EDU] Internal course: Kubernetes",
         "category": "Education",
         "date": "12-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: Cloud Architecture",
         "category": "Education",
         "date": "26-Oct-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: DevOps Practices",
         "category": "Education",
         "date": "08-Sep-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: AI & Machine Learning",
         "category": "Education",
         "date": "05-Aug-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: React & Frontend 22.05.25",
         "category": "Education",
         "date": "22-May-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -3517,31 +4369,41 @@ const employees = [
         "name": "[EDU] Course: Kubernetes",
         "category": "Education",
         "date": "08-Sep-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: React & Frontend",
         "category": "Education",
         "date": "20-Jul-2025",
-        "points": "+24"
+        "points": "+24",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: AI & Machine Learning",
         "category": "Education",
         "date": "24-Jun-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: Cloud Architecture 10.06.25",
         "category": "Education",
         "date": "10-Jun-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: DevOps Practices",
         "category": "Education",
         "date": "22-May-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -3568,31 +4430,41 @@ const employees = [
         "name": "[EDU] Internal course: AI & Machine Learning",
         "category": "Education",
         "date": "18-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] University mentoring 08.09.25",
         "category": "University Partnership",
         "date": "08-Sep-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: React & Frontend",
         "category": "Education",
         "date": "20-Jul-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: Kubernetes",
         "category": "Education",
         "date": "10-Jun-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[REG] Internship mentoring 14.05.25",
         "category": "University Partnership",
         "date": "14-May-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -3619,49 +4491,65 @@ const employees = [
         "name": "[EDU] Internal course: Cloud Architecture",
         "category": "Education",
         "date": "15-Dec-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: API Design",
         "category": "Education",
         "date": "12-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: DevOps Practices",
         "category": "Education",
         "date": "26-Oct-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] AI Digest #21 06.10.25",
         "category": "Public Speaking",
         "date": "06-Oct-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: AI & Machine Learning",
         "category": "Education",
         "date": "20-Jul-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Internal course: Python",
         "category": "Education",
         "date": "27-May-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: Kubernetes",
         "category": "Education",
         "date": "22-May-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Webinar: React & Frontend 14.05.25",
         "category": "Public Speaking",
         "date": "14-May-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -3683,31 +4571,41 @@ const employees = [
         "name": "[EDU] Course: AI & Machine Learning",
         "category": "Education",
         "date": "17-Dec-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: Cloud Architecture 18.11.25",
         "category": "Education",
         "date": "18-Nov-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: Kubernetes",
         "category": "Education",
         "date": "26-Oct-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: DevOps Practices",
         "category": "Education",
         "date": "08-Jul-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: React & Frontend",
         "category": "Education",
         "date": "27-May-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -3729,49 +4627,65 @@ const employees = [
         "name": "[EDU] Internal course: AI & Machine Learning",
         "category": "Education",
         "date": "16-Dec-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: TypeScript 26.10.25",
         "category": "Education",
         "date": "26-Oct-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: DevOps Practices",
         "category": "Education",
         "date": "06-Oct-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: Cloud Architecture",
         "category": "Education",
         "date": "23-Sep-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Internal course: React & Frontend",
         "category": "Education",
         "date": "08-Sep-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Internal course: Kubernetes",
         "category": "Education",
         "date": "20-Aug-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: API Design",
         "category": "Education",
         "date": "05-Aug-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Internal course: Python",
         "category": "Education",
         "date": "10-Jun-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -3793,31 +4707,41 @@ const employees = [
         "name": "[EDU] AI Digest #13 16.12.25",
         "category": "Public Speaking",
         "date": "16-Dec-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Meetup: Kubernetes 15.12.25",
         "category": "Public Speaking",
         "date": "15-Dec-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Webinar: DevOps Practices 20.08.25",
         "category": "Public Speaking",
         "date": "20-Aug-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Tech Talk: AI & Machine Learning 20.07.25",
         "category": "Public Speaking",
         "date": "20-Jul-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Conference: React & Frontend 27.05.25",
         "category": "Public Speaking",
         "date": "27-May-2025",
-        "points": "+24"
+        "points": "+24",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -3839,25 +4763,33 @@ const employees = [
         "name": "[EDU] Certification: AI & Machine Learning",
         "category": "Education",
         "date": "23-Sep-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Internal course: Cloud Architecture",
         "category": "Education",
         "date": "08-Sep-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: Kubernetes",
         "category": "Education",
         "date": "27-May-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: DevOps Practices",
         "category": "Education",
         "date": "22-May-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -3879,25 +4811,33 @@ const employees = [
         "name": "[EDU] Lightning Talk: Kubernetes 23.09.25",
         "category": "Public Speaking",
         "date": "23-Sep-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Tech Talk: AI & Machine Learning 20.08.25",
         "category": "Public Speaking",
         "date": "20-Aug-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Tech Talk: Cloud Architecture 20.07.25",
         "category": "Public Speaking",
         "date": "20-Jul-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Workshop: DevOps Practices 10.06.25",
         "category": "Public Speaking",
         "date": "10-Jun-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -3919,31 +4859,41 @@ const employees = [
         "name": "[EDU] PowerPoint Karaoke #14",
         "category": "Public Speaking",
         "date": "26-Oct-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Lightning Talk: DevOps Practices 20.08.25",
         "category": "Public Speaking",
         "date": "20-Aug-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Webinar: AI & Machine Learning 05.08.25",
         "category": "Public Speaking",
         "date": "05-Aug-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Meetup: React & Frontend 10.06.25",
         "category": "Public Speaking",
         "date": "10-Jun-2025",
-        "points": "+28"
+        "points": "+28",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Tech Talk: Cloud Architecture 14.05.25",
         "category": "Public Speaking",
         "date": "14-May-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -3965,31 +4915,41 @@ const employees = [
         "name": "[REG] Workshop attendance: React & Frontend",
         "category": "Education",
         "date": "15-Dec-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: Cloud Architecture",
         "category": "Education",
         "date": "12-Nov-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: Kubernetes",
         "category": "Education",
         "date": "05-Nov-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: DevOps Practices",
         "category": "Education",
         "date": "06-Oct-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: AI & Machine Learning",
         "category": "Education",
         "date": "24-Jun-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -4011,37 +4971,49 @@ const employees = [
         "name": "[EDU] Course: Cloud Architecture",
         "category": "Education",
         "date": "12-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: Kubernetes",
         "category": "Education",
         "date": "05-Nov-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: API Design",
         "category": "Education",
         "date": "08-Sep-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: React & Frontend",
         "category": "Education",
         "date": "05-Aug-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: DevOps Practices",
         "category": "Education",
         "date": "24-Jun-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: AI & Machine Learning",
         "category": "Education",
         "date": "22-May-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -4063,13 +5035,17 @@ const employees = [
         "name": "[REG] Workshop attendance: Cloud Architecture",
         "category": "Education",
         "date": "17-Dec-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: AI & Machine Learning 26.10.25",
         "category": "Education",
         "date": "26-Oct-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q4",
+        "year": "2025"
       }
     ]
   },
@@ -4091,13 +5067,17 @@ const employees = [
         "name": "[REG] Workshop attendance: AI & Machine Learning",
         "category": "Education",
         "date": "06-Oct-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: Cloud Architecture 24.06.25",
         "category": "Education",
         "date": "24-Jun-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -4119,25 +5099,33 @@ const employees = [
         "name": "[EDU] Webinar: DevOps Practices 15.12.25",
         "category": "Public Speaking",
         "date": "15-Dec-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Webinar: Kubernetes 08.09.25",
         "category": "Public Speaking",
         "date": "08-Sep-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] AI Digest #4 24.06.25",
         "category": "Public Speaking",
         "date": "24-Jun-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Webinar: AI & Machine Learning 22.05.25",
         "category": "Public Speaking",
         "date": "22-May-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -4159,13 +5147,17 @@ const employees = [
         "name": "[REG] Training: AI & Machine Learning 05.11.25",
         "category": "Education",
         "date": "05-Nov-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: Cloud Architecture",
         "category": "Education",
         "date": "24-Jun-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -4192,19 +5184,25 @@ const employees = [
         "name": "[REG] University mentoring 12.11.25",
         "category": "University Partnership",
         "date": "12-Nov-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Guest lecture: Cloud Architecture 06.10.25",
         "category": "University Partnership",
         "date": "06-Oct-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: DevOps Practices 27.05.25",
         "category": "Education",
         "date": "27-May-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -4226,19 +5224,25 @@ const employees = [
         "name": "[EDU] AI Digest #9 26.10.25",
         "category": "Public Speaking",
         "date": "26-Oct-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Workshop: DevOps Practices 05.08.25",
         "category": "Public Speaking",
         "date": "05-Aug-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Lightning Talk: AI & Machine Learning 20.07.25",
         "category": "Public Speaking",
         "date": "20-Jul-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       }
     ]
   },
@@ -4260,31 +5264,41 @@ const employees = [
         "name": "[EDU] Course: DevOps Practices",
         "category": "Education",
         "date": "05-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: Kubernetes",
         "category": "Education",
         "date": "08-Sep-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: Cloud Architecture",
         "category": "Education",
         "date": "20-Aug-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: React & Frontend",
         "category": "Education",
         "date": "27-May-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: AI & Machine Learning",
         "category": "Education",
         "date": "14-May-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -4306,37 +5320,49 @@ const employees = [
         "name": "[REG] Training: API Design 18.11.25",
         "category": "Education",
         "date": "18-Nov-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: AI & Machine Learning",
         "category": "Education",
         "date": "05-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: React & Frontend",
         "category": "Education",
         "date": "06-Oct-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: DevOps Practices",
         "category": "Education",
         "date": "05-Aug-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Internal course: Cloud Architecture",
         "category": "Education",
         "date": "24-Jun-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: Kubernetes",
         "category": "Education",
         "date": "27-May-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -4358,37 +5384,49 @@ const employees = [
         "name": "[EDU] Course: Cloud Architecture",
         "category": "Education",
         "date": "15-Dec-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: API Design",
         "category": "Education",
         "date": "26-Oct-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: Kubernetes",
         "category": "Education",
         "date": "06-Oct-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: DevOps Practices",
         "category": "Education",
         "date": "20-Aug-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: AI & Machine Learning",
         "category": "Education",
         "date": "20-Jul-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: React & Frontend",
         "category": "Education",
         "date": "24-Jun-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -4410,37 +5448,49 @@ const employees = [
         "name": "[EDU] Online course: DevOps Practices",
         "category": "Education",
         "date": "18-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: Kubernetes",
         "category": "Education",
         "date": "20-Aug-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: AI & Machine Learning",
         "category": "Education",
         "date": "05-Aug-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: Cloud Architecture",
         "category": "Education",
         "date": "20-Jul-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: API Design",
         "category": "Education",
         "date": "22-May-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: React & Frontend",
         "category": "Education",
         "date": "14-May-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -4462,13 +5512,17 @@ const employees = [
         "name": "[REG] Training: AI & Machine Learning 05.08.25",
         "category": "Education",
         "date": "05-Aug-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: Cloud Architecture",
         "category": "Education",
         "date": "27-May-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -4490,43 +5544,57 @@ const employees = [
         "name": "[EDU] Self-study: Kubernetes",
         "category": "Education",
         "date": "16-Dec-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: DevOps Practices",
         "category": "Education",
         "date": "26-Oct-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: React & Frontend",
         "category": "Education",
         "date": "06-Oct-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: AI & Machine Learning",
         "category": "Education",
         "date": "20-Aug-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: API Design",
         "category": "Education",
         "date": "20-Jul-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: Python",
         "category": "Education",
         "date": "08-Jul-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: Cloud Architecture",
         "category": "Education",
         "date": "24-Jun-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -4548,19 +5616,25 @@ const employees = [
         "name": "[EDU] Self-study: AI & Machine Learning",
         "category": "Education",
         "date": "16-Dec-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: DevOps Practices 15.12.25",
         "category": "Education",
         "date": "15-Dec-2025",
-        "points": "+24"
+        "points": "+24",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: Cloud Architecture 05.08.25",
         "category": "Education",
         "date": "05-Aug-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q3",
+        "year": "2025"
       }
     ]
   },
@@ -4582,43 +5656,57 @@ const employees = [
         "name": "[EDU] Book Club: AI & Machine Learning",
         "category": "Education",
         "date": "12-Nov-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: Kubernetes",
         "category": "Education",
         "date": "08-Sep-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: API Design",
         "category": "Education",
         "date": "20-Jul-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: Python 08.07.25",
         "category": "Education",
         "date": "08-Jul-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: DevOps Practices",
         "category": "Education",
         "date": "24-Jun-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: Cloud Architecture",
         "category": "Education",
         "date": "10-Jun-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Internal course: React & Frontend",
         "category": "Education",
         "date": "14-May-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -4640,31 +5728,41 @@ const employees = [
         "name": "[EDU] Certification: AI & Machine Learning",
         "category": "Education",
         "date": "17-Dec-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: Cloud Architecture",
         "category": "Education",
         "date": "16-Dec-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: React & Frontend",
         "category": "Education",
         "date": "06-Oct-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: DevOps Practices",
         "category": "Education",
         "date": "08-Jul-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: Kubernetes",
         "category": "Education",
         "date": "14-May-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -4686,31 +5784,41 @@ const employees = [
         "name": "[EDU] Self-study: Cloud Architecture",
         "category": "Education",
         "date": "06-Oct-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: React & Frontend",
         "category": "Education",
         "date": "08-Sep-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: AI & Machine Learning",
         "category": "Education",
         "date": "05-Aug-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: DevOps Practices",
         "category": "Education",
         "date": "08-Jul-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Internal course: Kubernetes",
         "category": "Education",
         "date": "22-May-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -4732,49 +5840,65 @@ const employees = [
         "name": "[EDU] Online course: TypeScript",
         "category": "Education",
         "date": "17-Dec-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: Python",
         "category": "Education",
         "date": "26-Oct-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: DevOps Practices",
         "category": "Education",
         "date": "06-Oct-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: Kubernetes",
         "category": "Education",
         "date": "08-Sep-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: API Design",
         "category": "Education",
         "date": "05-Aug-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: React & Frontend",
         "category": "Education",
         "date": "08-Jul-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: Cloud Architecture",
         "category": "Education",
         "date": "24-Jun-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: AI & Machine Learning",
         "category": "Education",
         "date": "10-Jun-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -4796,19 +5920,25 @@ const employees = [
         "name": "[EDU] Campus talk: DevOps Practices 12.11.25",
         "category": "University Partnership",
         "date": "12-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Campus talk: Cloud Architecture 20.07.25",
         "category": "University Partnership",
         "date": "20-Jul-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Internship mentoring 14.05.25",
         "category": "University Partnership",
         "date": "14-May-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -4830,19 +5960,25 @@ const employees = [
         "name": "[REG] Internship mentoring 26.10.25",
         "category": "University Partnership",
         "date": "26-Oct-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Internship mentoring 06.10.25",
         "category": "University Partnership",
         "date": "06-Oct-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Campus talk: Cloud Architecture 10.06.25",
         "category": "University Partnership",
         "date": "10-Jun-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -4869,31 +6005,41 @@ const employees = [
         "name": "[EDU] Campus talk: DevOps Practices 17.12.25",
         "category": "University Partnership",
         "date": "17-Dec-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] University mentoring 15.12.25",
         "category": "University Partnership",
         "date": "15-Dec-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: Cloud Architecture",
         "category": "Education",
         "date": "18-Nov-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: React & Frontend",
         "category": "Education",
         "date": "05-Aug-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: AI & Machine Learning",
         "category": "Education",
         "date": "08-Jul-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       }
     ]
   },
@@ -4915,19 +6061,25 @@ const employees = [
         "name": "[EDU] Course: DevOps Practices",
         "category": "Education",
         "date": "08-Sep-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: AI & Machine Learning",
         "category": "Education",
         "date": "20-Aug-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: Cloud Architecture 05.08.25",
         "category": "Education",
         "date": "05-Aug-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q3",
+        "year": "2025"
       }
     ]
   },
@@ -4949,43 +6101,57 @@ const employees = [
         "name": "[EDU] Book Club: AI & Machine Learning",
         "category": "Education",
         "date": "12-Nov-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: API Design",
         "category": "Education",
         "date": "05-Nov-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Internal course: DevOps Practices",
         "category": "Education",
         "date": "06-Oct-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Internal course: Cloud Architecture",
         "category": "Education",
         "date": "20-Aug-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: React & Frontend",
         "category": "Education",
         "date": "05-Aug-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: Kubernetes",
         "category": "Education",
         "date": "27-May-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[REG] Training: Python 22.05.25",
         "category": "Education",
         "date": "22-May-2025",
-        "points": "+24"
+        "points": "+24",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -5007,37 +6173,49 @@ const employees = [
         "name": "[EDU] Online course: React & Frontend",
         "category": "Education",
         "date": "15-Dec-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: Kubernetes",
         "category": "Education",
         "date": "26-Oct-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: Cloud Architecture",
         "category": "Education",
         "date": "23-Sep-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: DevOps Practices",
         "category": "Education",
         "date": "05-Aug-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: AI & Machine Learning",
         "category": "Education",
         "date": "24-Jun-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: API Design",
         "category": "Education",
         "date": "27-May-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -5059,43 +6237,57 @@ const employees = [
         "name": "[EDU] Internal course: React & Frontend",
         "category": "Education",
         "date": "17-Dec-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: Kubernetes",
         "category": "Education",
         "date": "16-Dec-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: API Design",
         "category": "Education",
         "date": "15-Dec-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: Cloud Architecture",
         "category": "Education",
         "date": "23-Sep-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: DevOps Practices",
         "category": "Education",
         "date": "08-Sep-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: AI & Machine Learning",
         "category": "Education",
         "date": "20-Aug-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: Python",
         "category": "Education",
         "date": "27-May-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -5117,31 +6309,41 @@ const employees = [
         "name": "[EDU] Certification: Kubernetes",
         "category": "Education",
         "date": "05-Nov-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: AI & Machine Learning",
         "category": "Education",
         "date": "26-Oct-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: React & Frontend",
         "category": "Education",
         "date": "23-Sep-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: Cloud Architecture",
         "category": "Education",
         "date": "08-Sep-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: DevOps Practices",
         "category": "Education",
         "date": "05-Aug-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       }
     ]
   },
@@ -5163,13 +6365,17 @@ const employees = [
         "name": "[REG] Training: AI & Machine Learning 06.10.25",
         "category": "Education",
         "date": "06-Oct-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: Cloud Architecture",
         "category": "Education",
         "date": "08-Sep-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       }
     ]
   },
@@ -5191,25 +6397,33 @@ const employees = [
         "name": "[REG] Workshop attendance: DevOps Practices",
         "category": "Education",
         "date": "26-Oct-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: Kubernetes",
         "category": "Education",
         "date": "06-Oct-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: AI & Machine Learning",
         "category": "Education",
         "date": "24-Jun-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: Cloud Architecture",
         "category": "Education",
         "date": "10-Jun-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -5231,37 +6445,49 @@ const employees = [
         "name": "[EDU] Online course: Cloud Architecture",
         "category": "Education",
         "date": "18-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Certification: API Design",
         "category": "Education",
         "date": "12-Nov-2025",
-        "points": "+24"
+        "points": "+24",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Course: AI & Machine Learning",
         "category": "Education",
         "date": "05-Aug-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Book Club: React & Frontend",
         "category": "Education",
         "date": "08-Jul-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: DevOps Practices",
         "category": "Education",
         "date": "27-May-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Online course: Kubernetes",
         "category": "Education",
         "date": "14-May-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -5283,13 +6509,17 @@ const employees = [
         "name": "[EDU] AI Digest #5 08.09.25",
         "category": "Public Speaking",
         "date": "08-Sep-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Workshop: Cloud Architecture 27.05.25",
         "category": "Public Speaking",
         "date": "27-May-2025",
-        "points": "+56"
+        "points": "+56",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -5311,13 +6541,17 @@ const employees = [
         "name": "[REG] Conference: AI & Machine Learning 10.06.25",
         "category": "Public Speaking",
         "date": "10-Jun-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[REG] Meetup: Cloud Architecture 14.05.25",
         "category": "Public Speaking",
         "date": "14-May-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -5344,25 +6578,33 @@ const employees = [
         "name": "[EDU] Student Q&A: Cloud Architecture",
         "category": "University Partnership",
         "date": "15-Dec-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] AI Digest #2 12.11.25",
         "category": "Public Speaking",
         "date": "12-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] University mentoring 06.10.25",
         "category": "University Partnership",
         "date": "06-Oct-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] AI Digest #5 22.05.25",
         "category": "Public Speaking",
         "date": "22-May-2025",
-        "points": "+6"
+        "points": "+6",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -5384,25 +6626,33 @@ const employees = [
         "name": "[EDU] Internal course: AI & Machine Learning",
         "category": "Education",
         "date": "16-Dec-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: Cloud Architecture",
         "category": "Education",
         "date": "05-Nov-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Self-study: Kubernetes",
         "category": "Education",
         "date": "23-Sep-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Workshop attendance: DevOps Practices",
         "category": "Education",
         "date": "05-Aug-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       }
     ]
   },
@@ -5424,25 +6674,33 @@ const employees = [
         "name": "[EDU] PowerPoint Karaoke #14",
         "category": "Public Speaking",
         "date": "16-Dec-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Tech Talk: Cloud Architecture 08.09.25",
         "category": "Public Speaking",
         "date": "08-Sep-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Meetup: Kubernetes 05.08.25",
         "category": "Public Speaking",
         "date": "05-Aug-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Webinar: AI & Machine Learning 20.07.25",
         "category": "Public Speaking",
         "date": "20-Jul-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       }
     ]
   },
@@ -5464,7 +6722,9 @@ const employees = [
         "name": "[REG] Conference: AI & Machine Learning 22.05.25",
         "category": "Public Speaking",
         "date": "22-May-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -5486,13 +6746,17 @@ const employees = [
         "name": "[REG] Conference: Cloud Architecture 23.09.25",
         "category": "Public Speaking",
         "date": "23-Sep-2025",
-        "points": "+56"
+        "points": "+56",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] PowerPoint Karaoke #5",
         "category": "Public Speaking",
         "date": "20-Aug-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q3",
+        "year": "2025"
       }
     ]
   },
@@ -5514,19 +6778,25 @@ const employees = [
         "name": "[EDU] AI Digest #10 12.11.25",
         "category": "Public Speaking",
         "date": "12-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Meetup: Cloud Architecture 20.08.25",
         "category": "Public Speaking",
         "date": "20-Aug-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Tech Talk: DevOps Practices 10.06.25",
         "category": "Public Speaking",
         "date": "10-Jun-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -5548,7 +6818,9 @@ const employees = [
         "name": "[EDU] Workshop: AI & Machine Learning 12.11.25",
         "category": "Public Speaking",
         "date": "12-Nov-2025",
-        "points": "+64"
+        "points": "+64",
+        "quarter": "Q4",
+        "year": "2025"
       }
     ]
   },
@@ -5570,19 +6842,25 @@ const employees = [
         "name": "[EDU] AI Digest #11 23.09.25",
         "category": "Public Speaking",
         "date": "23-Sep-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Conference: DevOps Practices 10.06.25",
         "category": "Public Speaking",
         "date": "10-Jun-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[REG] Meetup: AI & Machine Learning 27.05.25",
         "category": "Public Speaking",
         "date": "27-May-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -5604,19 +6882,25 @@ const employees = [
         "name": "[EDU] Workshop: DevOps Practices 17.12.25",
         "category": "Public Speaking",
         "date": "17-Dec-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Lightning Talk: AI & Machine Learning 18.11.25",
         "category": "Public Speaking",
         "date": "18-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Webinar: Cloud Architecture 05.11.25",
         "category": "Public Speaking",
         "date": "05-Nov-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       }
     ]
   },
@@ -5638,19 +6922,25 @@ const employees = [
         "name": "[EDU] Lightning Talk: Cloud Architecture 23.09.25",
         "category": "Public Speaking",
         "date": "23-Sep-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Workshop: DevOps Practices 05.08.25",
         "category": "Public Speaking",
         "date": "05-Aug-2025",
-        "points": "+40"
+        "points": "+40",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] PowerPoint Karaoke #10",
         "category": "Public Speaking",
         "date": "14-May-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -5672,31 +6962,41 @@ const employees = [
         "name": "[EDU] Lightning Talk: React & Frontend 15.12.25",
         "category": "Public Speaking",
         "date": "15-Dec-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] PowerPoint Karaoke #11",
         "category": "Public Speaking",
         "date": "06-Oct-2025",
-        "points": "+8"
+        "points": "+8",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] AI Digest #10 23.09.25",
         "category": "Public Speaking",
         "date": "23-Sep-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] AI Digest #9 05.08.25",
         "category": "Public Speaking",
         "date": "05-Aug-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Lightning Talk: Kubernetes 14.05.25",
         "category": "Public Speaking",
         "date": "14-May-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -5718,13 +7018,17 @@ const employees = [
         "name": "[EDU] Lightning Talk: AI & Machine Learning 22.05.25",
         "category": "Public Speaking",
         "date": "22-May-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[EDU] Workshop: Cloud Architecture 14.05.25",
         "category": "Public Speaking",
         "date": "14-May-2025",
-        "points": "+48"
+        "points": "+48",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -5746,19 +7050,25 @@ const employees = [
         "name": "[EDU] Workshop: DevOps Practices 16.12.25",
         "category": "Public Speaking",
         "date": "16-Dec-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Tech Talk: AI & Machine Learning 26.10.25",
         "category": "Public Speaking",
         "date": "26-Oct-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Lightning Talk: Cloud Architecture 08.09.25",
         "category": "Public Speaking",
         "date": "08-Sep-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       }
     ]
   },
@@ -5780,13 +7090,17 @@ const employees = [
         "name": "[EDU] Webinar: Cloud Architecture 23.09.25",
         "category": "Public Speaking",
         "date": "23-Sep-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Webinar: AI & Machine Learning 27.05.25",
         "category": "Public Speaking",
         "date": "27-May-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -5808,19 +7122,25 @@ const employees = [
         "name": "[EDU] AI Digest #20 18.11.25",
         "category": "Public Speaking",
         "date": "18-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Workshop: DevOps Practices 05.08.25",
         "category": "Public Speaking",
         "date": "05-Aug-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[EDU] Lightning Talk: AI & Machine Learning 10.06.25",
         "category": "Public Speaking",
         "date": "10-Jun-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -5842,19 +7162,25 @@ const employees = [
         "name": "[EDU] AI Digest #3 05.11.25",
         "category": "Public Speaking",
         "date": "05-Nov-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[EDU] Tech Talk: Cloud Architecture 08.07.25",
         "category": "Public Speaking",
         "date": "08-Jul-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Meetup: DevOps Practices 22.05.25",
         "category": "Public Speaking",
         "date": "22-May-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -5876,19 +7202,25 @@ const employees = [
         "name": "[EDU] Lightning Talk: AI & Machine Learning 20.07.25",
         "category": "Public Speaking",
         "date": "20-Jul-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q3",
+        "year": "2025"
       },
       {
         "name": "[REG] Meetup: Cloud Architecture 10.06.25",
         "category": "Public Speaking",
         "date": "10-Jun-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q2",
+        "year": "2025"
       },
       {
         "name": "[REG] Conference: DevOps Practices 14.05.25",
         "category": "Public Speaking",
         "date": "14-May-2025",
-        "points": "+16"
+        "points": "+16",
+        "quarter": "Q2",
+        "year": "2025"
       }
     ]
   },
@@ -5910,13 +7242,17 @@ const employees = [
         "name": "[REG] Meetup: Cloud Architecture 17.12.25",
         "category": "Public Speaking",
         "date": "17-Dec-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       },
       {
         "name": "[REG] Meetup: AI & Machine Learning 12.11.25",
         "category": "Public Speaking",
         "date": "12-Nov-2025",
-        "points": "+32"
+        "points": "+32",
+        "quarter": "Q4",
+        "year": "2025"
       }
     ]
   }
