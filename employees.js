@@ -7400,37 +7400,42 @@ function renderEmployeeList() {
 
 function renderPodium() {
   const container = document.querySelector('.podium_2943a085');
-  if (!container || employees.length < 3) return;
+  if (!container) return;
 
-  const [first, second, third] = employees;
+  const filtered = getFilteredEmployees();
+  if (filtered.length < 3) { container.innerHTML = ''; return; }
 
-  function podiumColumn(emp, rankClass, avatarSize, badgeSize) {
+  const activeFilter = filterState.quarter || filterState.category;
+  const [first, second, third] = filtered;
+
+  function podiumColumn(emp, pos, rankClass, avatarSize, badgeSize) {
+    const displayScore = activeFilter ? emp.filteredScore : emp.score;
     return `
       <div class="podiumColumn_2943a085 ${rankClass}">
         <div class="podiumUser_2943a085">
           <div class="podiumAvatarContainer_2943a085">
             <div class="podiumAvatar_2943a085" style="width:${avatarSize}px;height:${avatarSize}px;${emp.avatarStyle}"></div>
-            <div class="podiumRankBadge_2943a085" style="width:${badgeSize}px;height:${badgeSize}px">${emp.rank}</div>
+            <div class="podiumRankBadge_2943a085" style="width:${badgeSize}px;height:${badgeSize}px">${pos}</div>
           </div>
           <h3 class="podiumName_2943a085">${emp.name}</h3>
           <p class="podiumRole_2943a085">${emp.role}
             <div class="podiumScore_2943a085">
               <i data-icon-name="FavoriteStarFill" aria-hidden="true" class="root-203"></i>
-              <span>${emp.score}</span>
+              <span>${displayScore}</span>
             </div>
           </p>
         </div>
         <div class="podiumBlock_2943a085">
           <div class="podiumBlockTop_2943a085"></div>
-          <span class="podiumRankNumber_2943a085">${emp.rank}</span>
+          <span class="podiumRankNumber_2943a085">${pos}</span>
         </div>
       </div>`;
   }
 
   container.innerHTML =
-    podiumColumn(second, 'podiumRank2_2943a085', 80, 32) +
-    podiumColumn(first,  'podiumRank1_2943a085', 112, 40) +
-    podiumColumn(third,  'podiumRank3_2943a085', 80, 32);
+    podiumColumn(second, 2, 'podiumRank2_2943a085', 80, 32) +
+    podiumColumn(first,  1, 'podiumRank1_2943a085', 112, 40) +
+    podiumColumn(third,  3, 'podiumRank3_2943a085', 80, 32);
 }
 
 function initFilters() {
@@ -7443,9 +7448,11 @@ function initFilters() {
     if (listbox.id === 'Dropdown5-list') {
       filterState.quarter = value;
       renderEmployeeList();
+      renderPodium();
     } else if (listbox.id === 'Dropdown6-list') {
       filterState.category = value;
       renderEmployeeList();
+      renderPodium();
     }
   });
 
@@ -7454,6 +7461,7 @@ function initFilters() {
     searchInput.addEventListener('input', function() {
       filterState.search = this.value.trim();
       renderEmployeeList();
+      renderPodium();
     });
   }
 
