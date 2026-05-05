@@ -2,7 +2,7 @@ const employees = [
   {
     "rank": 1,
     "name": "Varvara Sokolov",
-    "role": "Platform Engineer (AE.U1.G3)",
+    "role": "Platform Engineer (Nexus)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/women/42.jpg')",
     "stats": [
       {
@@ -154,7 +154,7 @@ const employees = [
   {
     "rank": 2,
     "name": "Ilya Voronov",
-    "role": "Backend Developer (CB.U1.DQA2.T1)",
+    "role": "Backend Developer (CoreBridge)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/2.jpg')",
     "stats": [
       {
@@ -266,7 +266,7 @@ const employees = [
   {
     "rank": 3,
     "name": "Olga Mikhailov",
-    "role": "Senior Software Engineer (BH.U1.D3.T1)",
+    "role": "Senior Software Engineer (BlueHorizon)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/women/47.jpg')",
     "stats": [
       {
@@ -359,7 +359,7 @@ const employees = [
   {
     "rank": 4,
     "name": "Stepan Kovalchuk",
-    "role": "DevOps Engineer (BE.U1.D1.G1)",
+    "role": "DevOps Engineer (BoltEdge)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/10.jpg')",
     "stats": [
       {
@@ -460,7 +460,7 @@ const employees = [
   {
     "rank": 5,
     "name": "Yuri Volkov",
-    "role": "Lead QA Engineer (AD.G6)",
+    "role": "Lead QA Engineer (ApexDev)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/86.jpg')",
     "stats": [
       {
@@ -564,7 +564,7 @@ const employees = [
   {
     "rank": 6,
     "name": "Denis Chernov",
-    "role": "Senior QA Engineer (HJ.U1.D3.T1)",
+    "role": "Senior QA Engineer (HexJunction)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/94.jpg')",
     "stats": [
       {
@@ -649,7 +649,7 @@ const employees = [
   {
     "rank": 7,
     "name": "Nikolai Kovalenko",
-    "role": "Senior Backend Developer (RA.U1.D1.G2)",
+    "role": "Senior Backend Developer (RedArrow)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/99.jpg')",
     "stats": [
       {
@@ -761,7 +761,7 @@ const employees = [
   {
     "rank": 8,
     "name": "Maxim Sorokin",
-    "role": "Senior Frontend Developer (NG.U1.D1.G1.T1)",
+    "role": "Senior Frontend Developer (NightGrid)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/48.jpg')",
     "stats": [
       {
@@ -841,7 +841,7 @@ const employees = [
   {
     "rank": 9,
     "name": "Valentina Andreev",
-    "role": "Business Analyst (DP.U1.D1.G1.T1)",
+    "role": "Business Analyst (DeepPulse)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/women/44.jpg')",
     "stats": [
       {
@@ -929,7 +929,7 @@ const employees = [
   {
     "rank": 10,
     "name": "Galina Stepanov",
-    "role": "Frontend Developer (BB.U1.G3)",
+    "role": "Frontend Developer (BlackBox)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/women/57.jpg')",
     "stats": [
       {
@@ -1073,7 +1073,7 @@ const employees = [
   {
     "rank": 11,
     "name": "Ruslan Sidorov",
-    "role": "Security Engineer (LRP.TAD.SO)",
+    "role": "Security Engineer (LightRamp)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/93.jpg')",
     "stats": [
       {
@@ -1185,7 +1185,7 @@ const employees = [
   {
     "rank": 12,
     "name": "Gleb Grigoriev",
-    "role": "Team Lead (CT.U1.D3.T1)",
+    "role": "Team Lead (ClearTide)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/31.jpg')",
     "stats": [
       {
@@ -1270,7 +1270,7 @@ const employees = [
   {
     "rank": 13,
     "name": "Ludmila Lebedev",
-    "role": "Lead Software Engineer (KR.U1.G3)",
+    "role": "Lead Software Engineer (KiloRover)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/women/93.jpg')",
     "stats": [
       {
@@ -1347,7 +1347,7 @@ const employees = [
   {
     "rank": 14,
     "name": "Pavel Popov",
-    "role": "Senior Software Engineer (SG.G6)",
+    "role": "Senior Software Engineer (SkyGate)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/8.jpg')",
     "stats": [
       {
@@ -1432,7 +1432,7 @@ const employees = [
   {
     "rank": 15,
     "name": "Varvara Sobolev",
-    "role": "Frontend Developer (NA.U1.DQA2.T1)",
+    "role": "Frontend Developer (NanoArch)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/women/72.jpg')",
     "stats": [
       {
@@ -1509,7 +1509,7 @@ const employees = [
   {
     "rank": 16,
     "name": "Polina Pavlov",
-    "role": "QA Engineer (PU.U1.DQA2.T1)",
+    "role": "QA Engineer (PulseUnit)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/women/75.jpg')",
     "stats": [
       {
@@ -1573,7 +1573,7 @@ const employees = [
   {
     "rank": 17,
     "name": "Anastasia Nikitin",
-    "role": "Senior QA Engineer (SG.U1.DQA2.T1)",
+    "role": "Senior QA Engineer (SilverGrid)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/women/23.jpg')",
     "stats": [
       {
@@ -1685,7 +1685,7 @@ const employees = [
   {
     "rank": 18,
     "name": "Olga Kravchenko",
-    "role": "Scrum Master (MG.U1.D3)",
+    "role": "Scrum Master (MagmaGroup)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/women/36.jpg')",
     "stats": [
       {
@@ -1773,7 +1773,7 @@ const employees = [
   {
     "rank": 19,
     "name": "Svetlana Marchenko",
-    "role": "Performance Engineer (GNN.TAD.SO)",
+    "role": "Performance Engineer (GreenNova)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/women/91.jpg')",
     "stats": [
       {
@@ -1829,7 +1829,7 @@ const employees = [
   {
     "rank": 20,
     "name": "Igor Sorokin",
-    "role": "Senior Software Engineer (LD.U1.G3)",
+    "role": "Senior Software Engineer (LunarDrift)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/46.jpg')",
     "stats": [
       {
@@ -1917,7 +1917,7 @@ const employees = [
   {
     "rank": 21,
     "name": "Fyodor Shevchenko",
-    "role": "Senior Business Analyst (CG.U1.DQA2.T1)",
+    "role": "Senior Business Analyst (CipherGate)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/27.jpg')",
     "stats": [
       {
@@ -1981,7 +1981,7 @@ const employees = [
   {
     "rank": 22,
     "name": "Matvei Mikhailov",
-    "role": "Senior Mobile Developer (DF.U1.D3.T1)",
+    "role": "Senior Mobile Developer (DriftFlow)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/39.jpg')",
     "stats": [
       {
@@ -2045,7 +2045,7 @@ const employees = [
   {
     "rank": 23,
     "name": "Katarina Frolov",
-    "role": "Business Analyst (EA.U1.D1.G1)",
+    "role": "Business Analyst (EtherArch)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/women/99.jpg')",
     "stats": [
       {
@@ -2138,7 +2138,7 @@ const employees = [
   {
     "rank": 24,
     "name": "Tatiana Kovalev",
-    "role": "Engineering Manager (HBT.TAD.SO)",
+    "role": "Engineering Manager (HarbourTech)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/women/46.jpg')",
     "stats": [
       {
@@ -2191,7 +2191,7 @@ const employees = [
   {
     "rank": 25,
     "name": "Dmitri Kovalev",
-    "role": "Senior QA Engineer (SF.G6)",
+    "role": "Senior QA Engineer (StormForge)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/20.jpg')",
     "stats": [
       {
@@ -2303,7 +2303,7 @@ const employees = [
   {
     "rank": 26,
     "name": "Timur Lazarev",
-    "role": "Team Manager (HT.U1.D3)",
+    "role": "Team Manager (HorizonTeam)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/73.jpg')",
     "stats": [
       {
@@ -2407,7 +2407,7 @@ const employees = [
   {
     "rank": 27,
     "name": "Roman Savenko",
-    "role": "Security Engineer (CC.U1.D3)",
+    "role": "Security Engineer (CascadeCore)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/87.jpg')",
     "stats": [
       {
@@ -2503,7 +2503,7 @@ const employees = [
   {
     "rank": 28,
     "name": "Elena Titov",
-    "role": "DevOps Engineer (KP.U1.D3.T1)",
+    "role": "DevOps Engineer (KryptonPod)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/women/25.jpg')",
     "stats": [
       {
@@ -2655,7 +2655,7 @@ const employees = [
   {
     "rank": 30,
     "name": "Danila Stepanov",
-    "role": "Senior Full Stack Developer (JP.U1.D3.T1)",
+    "role": "Senior Full Stack Developer (JetPath)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/55.jpg')",
     "stats": [
       {
@@ -2719,7 +2719,7 @@ const employees = [
   {
     "rank": 31,
     "name": "Vladislav Boyko",
-    "role": "Team Lead (CC.U1.G3)",
+    "role": "Team Lead (ClearCode)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/75.jpg')",
     "stats": [
       {
@@ -2796,7 +2796,7 @@ const employees = [
   {
     "rank": 32,
     "name": "Leonid Chernov",
-    "role": "Data Engineer (LGLJ.Services)",
+    "role": "Data Engineer (LogicLoop)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/89.jpg')",
     "stats": [
       {
@@ -2876,7 +2876,7 @@ const employees = [
   {
     "rank": 33,
     "name": "Vadim Zhukov",
-    "role": "DevOps Engineer (US.U1.D1.G2)",
+    "role": "DevOps Engineer (UrbanStack)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/1.jpg')",
     "stats": [
       {
@@ -2940,7 +2940,7 @@ const employees = [
   {
     "rank": 34,
     "name": "Oleg Kozlov",
-    "role": "Full Stack Developer (NC.U1.D1.G1)",
+    "role": "Full Stack Developer (NovaCraft)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/83.jpg')",
     "stats": [
       {
@@ -3001,7 +3001,7 @@ const employees = [
   {
     "rank": 35,
     "name": "Yulia Kulagin",
-    "role": "QA Engineer (PP.U1.D3.T1)",
+    "role": "QA Engineer (PurplePeak)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/women/83.jpg')",
     "stats": [
       {
@@ -3073,7 +3073,7 @@ const employees = [
   {
     "rank": 36,
     "name": "Mikhail Novikov",
-    "role": "Data Engineer (CHJ.TAD.SO)",
+    "role": "Data Engineer (ChainJolt)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/40.jpg')",
     "stats": [
       {
@@ -3145,7 +3145,7 @@ const employees = [
   {
     "rank": 37,
     "name": "Roman Karpov",
-    "role": "Senior Frontend Developer (UP.U1.D1.G2)",
+    "role": "Senior Frontend Developer (UrbanPeak)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/52.jpg')",
     "stats": [
       {
@@ -3206,7 +3206,7 @@ const employees = [
   {
     "rank": 38,
     "name": "Denis Pavlov",
-    "role": "Frontend Developer (TS.U1.D3.T1)",
+    "role": "Frontend Developer (TechStream)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/67.jpg')",
     "stats": [
       {
@@ -3278,7 +3278,7 @@ const employees = [
   {
     "rank": 39,
     "name": "Vladislav Novikov",
-    "role": "Technical Lead (SK.U1.D1.G2)",
+    "role": "Technical Lead (SkyKite)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/72.jpg')",
     "stats": [
       {
@@ -3342,7 +3342,7 @@ const employees = [
   {
     "rank": 40,
     "name": "Svetlana Belov",
-    "role": "Senior Frontend Developer (CP.U1.DQA2.T1)",
+    "role": "Senior Frontend Developer (CoralPeak)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/women/58.jpg')",
     "stats": [
       {
@@ -3398,7 +3398,7 @@ const employees = [
   {
     "rank": 41,
     "name": "Vadim Sobolev",
-    "role": "Senior Data Engineer (UT.U1.D3.T1)",
+    "role": "Senior Data Engineer (UltraTech)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/74.jpg')",
     "stats": [
       {
@@ -3462,7 +3462,7 @@ const employees = [
   {
     "rank": 42,
     "name": "Stepan Andreev",
-    "role": "Senior Data Engineer (LJ.U1.D1.G1)",
+    "role": "Senior Data Engineer (LunaJet)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/66.jpg')",
     "stats": [
       {
@@ -3566,7 +3566,7 @@ const employees = [
   {
     "rank": 43,
     "name": "Denis Lazarev",
-    "role": "Performance Engineer (TS.U1.G3)",
+    "role": "Performance Engineer (TechSpark)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/43.jpg')",
     "stats": [
       {
@@ -3635,7 +3635,7 @@ const employees = [
   {
     "rank": 44,
     "name": "Stanislav Stepanov",
-    "role": "Automation QA Engineer (EE.U1.D1.G2)",
+    "role": "Automation QA Engineer (EchoEdge)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/16.jpg')",
     "stats": [
       {
@@ -3699,7 +3699,7 @@ const employees = [
   {
     "rank": 45,
     "name": "Danila Pavlov",
-    "role": "Lead Software Engineer (UB.G6)",
+    "role": "Lead Software Engineer (UrbanBase)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/19.jpg')",
     "stats": [
       {
@@ -3752,7 +3752,7 @@ const employees = [
   {
     "rank": 46,
     "name": "Maxim Semyonov",
-    "role": "Group Manager (RU.U1.D3)",
+    "role": "Group Manager (RubyUnit)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/88.jpg')",
     "stats": [
       {
@@ -3808,7 +3808,7 @@ const employees = [
   {
     "rank": 47,
     "name": "Leonid Savchenko",
-    "role": "Business Analyst (PC.U1.D3.T1)",
+    "role": "Business Analyst (PeakCircuit)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/77.jpg')",
     "stats": [
       {
@@ -3869,7 +3869,7 @@ const employees = [
   {
     "rank": 48,
     "name": "Galina Lebedev",
-    "role": "Backend Developer (UC.U1.D3)",
+    "role": "Backend Developer (UltraCore)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/women/35.jpg')",
     "stats": [
       {
@@ -3949,7 +3949,7 @@ const employees = [
   {
     "rank": 49,
     "name": "Bogdan Kovalchuk",
-    "role": "Technical Lead (SH.U1.D3.T1)",
+    "role": "Technical Lead (ShiftHub)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/97.jpg')",
     "stats": [
       {
@@ -4018,7 +4018,7 @@ const employees = [
   {
     "rank": 50,
     "name": "Matvei Korolev",
-    "role": "Frontend Developer (TP.U1.DQA2.T1)",
+    "role": "Frontend Developer (TitanPulse)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/81.jpg')",
     "stats": [
       {
@@ -4082,7 +4082,7 @@ const employees = [
   {
     "rank": 51,
     "name": "Roman Kovalchuk",
-    "role": "Senior Business Analyst (NH.U1.DQA2.T1)",
+    "role": "Senior Business Analyst (NexusHub)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/69.jpg')",
     "stats": [
       {
@@ -4162,7 +4162,7 @@ const employees = [
   {
     "rank": 52,
     "name": "Mikhail Savchenko",
-    "role": "Senior DevOps Engineer (HKC.TAD.SO)",
+    "role": "Senior DevOps Engineer (HawkCore)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/79.jpg')",
     "stats": [
       {
@@ -4242,7 +4242,7 @@ const employees = [
   {
     "rank": 53,
     "name": "Oksana Kovalchuk",
-    "role": "Platform Engineer (BA.U1.DQA2.T1)",
+    "role": "Platform Engineer (BlueAtlas)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/women/16.jpg')",
     "stats": [
       {
@@ -4298,7 +4298,7 @@ const employees = [
   {
     "rank": 54,
     "name": "Boris Boyko",
-    "role": "Staff Engineer (ED.U1.D3.T1)",
+    "role": "Staff Engineer (EchoDepth2)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/7.jpg')",
     "stats": [
       {
@@ -4354,7 +4354,7 @@ const employees = [
   {
     "rank": 55,
     "name": "Ruslan Savenko",
-    "role": "Solution Architect (NB.U1.G3)",
+    "role": "Solution Architect (NovaBridge)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/58.jpg')",
     "stats": [
       {
@@ -4410,7 +4410,7 @@ const employees = [
   {
     "rank": 56,
     "name": "Evgeni Marchenko",
-    "role": "Technical Program Manager (TS.U1.G3)",
+    "role": "Technical Program Manager (TechSpark)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/56.jpg')",
     "stats": [
       {
@@ -4471,7 +4471,7 @@ const employees = [
   {
     "rank": 57,
     "name": "Vitali Petrov",
-    "role": "Senior Mobile Developer (KF.U1.G3)",
+    "role": "Senior Mobile Developer (KryptonFire)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/17.jpg')",
     "stats": [
       {
@@ -4556,7 +4556,7 @@ const employees = [
   {
     "rank": 58,
     "name": "Vasili Pavlov",
-    "role": "Junior Software Engineer (DC.U1.D3)",
+    "role": "Junior Software Engineer (DeltaCore)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/59.jpg')",
     "stats": [
       {
@@ -4612,7 +4612,7 @@ const employees = [
   {
     "rank": 59,
     "name": "Olga Sokolov",
-    "role": "Lead Software Engineer (LE.G6)",
+    "role": "Lead Software Engineer (LunarEdge)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/women/95.jpg')",
     "stats": [
       {
@@ -4692,7 +4692,7 @@ const employees = [
   {
     "rank": 60,
     "name": "Larisa Zhukov",
-    "role": "Senior QA Engineer (RD.U1.D3)",
+    "role": "Senior QA Engineer (RocketDart)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/women/43.jpg')",
     "stats": [
       {
@@ -4748,7 +4748,7 @@ const employees = [
   {
     "rank": 61,
     "name": "Yelena Savchenko",
-    "role": "Senior DevOps Engineer (MG.U1.G3)",
+    "role": "Senior DevOps Engineer (MagentGrid)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/women/8.jpg')",
     "stats": [
       {
@@ -4796,7 +4796,7 @@ const employees = [
   {
     "rank": 62,
     "name": "Igor Shevchenko",
-    "role": "Frontend Developer (JPNU.Services)",
+    "role": "Frontend Developer (JetPulse)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/53.jpg')",
     "stats": [
       {
@@ -4844,7 +4844,7 @@ const employees = [
   {
     "rank": 63,
     "name": "Vladimir Shvedov",
-    "role": "Senior QA Engineer (BP.U1.G3)",
+    "role": "Senior QA Engineer (BluePeak)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/50.jpg')",
     "stats": [
       {
@@ -4900,7 +4900,7 @@ const employees = [
   {
     "rank": 64,
     "name": "Anna Tkachenko",
-    "role": "Senior Frontend Developer (ED.U1.G3)",
+    "role": "Senior Frontend Developer (EchoDepth)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/women/65.jpg')",
     "stats": [
       {
@@ -4956,7 +4956,7 @@ const employees = [
   {
     "rank": 65,
     "name": "Oleg Zhukov",
-    "role": "Technical Lead (CD.U1.D3)",
+    "role": "Technical Lead (CoralDrift)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/29.jpg')",
     "stats": [
       {
@@ -5020,7 +5020,7 @@ const employees = [
   {
     "rank": 66,
     "name": "Vladimir Titov",
-    "role": "DevOps Engineer (ET.U1.D3)",
+    "role": "DevOps Engineer (EchoTide)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/36.jpg')",
     "stats": [
       {
@@ -5052,7 +5052,7 @@ const employees = [
   {
     "rank": 67,
     "name": "Oksana Baranov",
-    "role": "Group Manager (RS.U1.D3)",
+    "role": "Group Manager (RocketStack)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/women/74.jpg')",
     "stats": [
       {
@@ -5084,7 +5084,7 @@ const employees = [
   {
     "rank": 68,
     "name": "Viktor Kovalev",
-    "role": "Platform Engineer (AU.U1.G3)",
+    "role": "Platform Engineer (AuroraUnit)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/51.jpg')",
     "stats": [
       {
@@ -5132,7 +5132,7 @@ const employees = [
   {
     "rank": 69,
     "name": "Yaroslav Novikov",
-    "role": "Solution Architect (UT.U1.D1.G1)",
+    "role": "Solution Architect (UnityTech)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/62.jpg')",
     "stats": [
       {
@@ -5164,7 +5164,7 @@ const employees = [
   {
     "rank": 70,
     "name": "Daria Zaitsev",
-    "role": "Senior Full Stack Developer (CJ.U1.DQA2.T1)",
+    "role": "Senior Full Stack Developer (ClearJet)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/women/54.jpg')",
     "stats": [
       {
@@ -5209,7 +5209,7 @@ const employees = [
   {
     "rank": 71,
     "name": "Pavel Fedorov",
-    "role": "Solution Architect (ST.U1.DQA2.T1)",
+    "role": "Solution Architect (StoneTide)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/21.jpg')",
     "stats": [
       {
@@ -5249,7 +5249,7 @@ const employees = [
   {
     "rank": 72,
     "name": "Ludmila Kozlov",
-    "role": "Senior Data Engineer (GU.U1.D1.G1.T1)",
+    "role": "Senior Data Engineer (GoldUnit)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/women/50.jpg')",
     "stats": [
       {
@@ -5305,7 +5305,7 @@ const employees = [
   {
     "rank": 73,
     "name": "Polina Stepanov",
-    "role": "QA Engineer (TR.U1.D1.G2)",
+    "role": "QA Engineer (TrailRidge)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/women/77.jpg')",
     "stats": [
       {
@@ -5369,7 +5369,7 @@ const employees = [
   {
     "rank": 74,
     "name": "Ilya Sobolev",
-    "role": "DevOps Engineer (HU.U1.D1.G2)",
+    "role": "DevOps Engineer (HyperUnit)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/76.jpg')",
     "stats": [
       {
@@ -5433,7 +5433,7 @@ const employees = [
   {
     "rank": 75,
     "name": "Roman Melnyk",
-    "role": "Junior Software Engineer (MJ.U1.D3.T1)",
+    "role": "Junior Software Engineer (MidnightJet)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/13.jpg')",
     "stats": [
       {
@@ -5497,7 +5497,7 @@ const employees = [
   {
     "rank": 76,
     "name": "Vadim Zaitsev",
-    "role": "Performance Engineer (FU.U1.DQA2.T1)",
+    "role": "Performance Engineer (FusionUnit)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/47.jpg')",
     "stats": [
       {
@@ -5529,7 +5529,7 @@ const employees = [
   {
     "rank": 77,
     "name": "Elena Nikitin",
-    "role": "Platform Engineer (PB.G6)",
+    "role": "Platform Engineer (PlasmaBay)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/women/81.jpg')",
     "stats": [
       {
@@ -5601,7 +5601,7 @@ const employees = [
   {
     "rank": 78,
     "name": "Yulia Bondarenko",
-    "role": "Senior Full Stack Developer (BLK.TAD.SO)",
+    "role": "Senior Full Stack Developer (BlackLake)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/women/22.jpg')",
     "stats": [
       {
@@ -5641,7 +5641,7 @@ const employees = [
   {
     "rank": 79,
     "name": "Maxim Korolev",
-    "role": "Business Analyst (CU.U1.D3.T1)",
+    "role": "Business Analyst (CurveUnit)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/61.jpg')",
     "stats": [
       {
@@ -5713,7 +5713,7 @@ const employees = [
   {
     "rank": 80,
     "name": "Natalia Petrov",
-    "role": "Lead QA Engineer (SB.U1.G3)",
+    "role": "Lead QA Engineer (SkyBridge)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/women/90.jpg')",
     "stats": [
       {
@@ -5769,7 +5769,7 @@ const employees = [
   {
     "rank": 81,
     "name": "Alina Voronov",
-    "role": "Senior Full Stack Developer (NE.U1.G3)",
+    "role": "Senior Full Stack Developer (NexusEdge)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/women/15.jpg')",
     "stats": [
       {
@@ -5825,7 +5825,7 @@ const employees = [
   {
     "rank": 82,
     "name": "Anastasia Zhukov",
-    "role": "Group Manager (TL.U1.G3)",
+    "role": "Group Manager (TurboLink)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/women/28.jpg')",
     "stats": [
       {
@@ -5905,7 +5905,7 @@ const employees = [
   {
     "rank": 83,
     "name": "Vladislav Melnyk",
-    "role": "Technical Lead (LM.G6)",
+    "role": "Technical Lead (LunarMesh)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/6.jpg')",
     "stats": [
       {
@@ -5945,7 +5945,7 @@ const employees = [
   {
     "rank": 84,
     "name": "Vasili Andreev",
-    "role": "DevOps Engineer (MLFE.Services)",
+    "role": "DevOps Engineer (MoltenFire)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/4.jpg')",
     "stats": [
       {
@@ -5985,7 +5985,7 @@ const employees = [
   {
     "rank": 85,
     "name": "Maxim Petrov",
-    "role": "Platform Engineer (EHN.TAD.SO)",
+    "role": "Platform Engineer (EchoNode)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/34.jpg')",
     "stats": [
       {
@@ -6046,7 +6046,7 @@ const employees = [
   {
     "rank": 86,
     "name": "Vitali Belov",
-    "role": "Senior Business Analyst (JT.U1.D1.G2)",
+    "role": "Senior Business Analyst (JetTide)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/45.jpg')",
     "stats": [
       {
@@ -6086,7 +6086,7 @@ const employees = [
   {
     "rank": 87,
     "name": "Yulia Petrov",
-    "role": "Senior QA Engineer (AM.U1.G3)",
+    "role": "Senior QA Engineer (ArcMesh)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/women/51.jpg')",
     "stats": [
       {
@@ -6158,7 +6158,7 @@ const employees = [
   {
     "rank": 88,
     "name": "Nikolai Novikov",
-    "role": "Cloud Engineer (UB.G6)",
+    "role": "Cloud Engineer (UrbanBase)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/38.jpg')",
     "stats": [
       {
@@ -6222,7 +6222,7 @@ const employees = [
   {
     "rank": 89,
     "name": "Bogdan Grigoriev",
-    "role": "Principal Software Engineer (KC.U1.DQA2.T1)",
+    "role": "Principal Software Engineer (KernelCode)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/65.jpg')",
     "stats": [
       {
@@ -6294,7 +6294,7 @@ const employees = [
   {
     "rank": 90,
     "name": "Ruslan Ryabov",
-    "role": "Senior QA Engineer (SSG.TAD.SO)",
+    "role": "Senior QA Engineer (StormSurge)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/57.jpg')",
     "stats": [
       {
@@ -6350,7 +6350,7 @@ const employees = [
   {
     "rank": 91,
     "name": "Stepan Voronov",
-    "role": "Lead Software Engineer (HK.U1.D1.G1.T1)",
+    "role": "Lead Software Engineer (HawkKey)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/82.jpg')",
     "stats": [
       {
@@ -6382,7 +6382,7 @@ const employees = [
   {
     "rank": 92,
     "name": "Katarina Zaitsev",
-    "role": "Cloud Engineer (MU.U1.D1.G2)",
+    "role": "Cloud Engineer (MoonUnit)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/women/52.jpg')",
     "stats": [
       {
@@ -6430,7 +6430,7 @@ const employees = [
   {
     "rank": 93,
     "name": "Alexei Lysenko",
-    "role": "Tech Lead (AR.U1.D3.T1)",
+    "role": "Tech Lead (ArcRider)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/44.jpg')",
     "stats": [
       {
@@ -6494,7 +6494,7 @@ const employees = [
   {
     "rank": 94,
     "name": "Roman Shevchenko",
-    "role": "DevOps Engineer (TB.U1.D1.G2)",
+    "role": "DevOps Engineer (TurboBase)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/12.jpg')",
     "stats": [
       {
@@ -6526,7 +6526,7 @@ const employees = [
   {
     "rank": 95,
     "name": "Katarina Savenko",
-    "role": "Junior Software Engineer (ET.U1.D1.G1.T1)",
+    "role": "Junior Software Engineer (EchoTech)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/women/24.jpg')",
     "stats": [
       {
@@ -6558,7 +6558,7 @@ const employees = [
   {
     "rank": 96,
     "name": "Roman Vinogradov",
-    "role": "QA Engineer (CF.U1.D3.T1)",
+    "role": "QA Engineer (ClearField)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/54.jpg')",
     "stats": [
       {
@@ -6611,7 +6611,7 @@ const employees = [
   {
     "rank": 97,
     "name": "Tatiana Nikitin",
-    "role": "Technical Program Manager (ND.U1.DQA2.T1)",
+    "role": "Technical Program Manager (NodeDrift)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/women/40.jpg')",
     "stats": [
       {
@@ -6659,7 +6659,7 @@ const employees = [
   {
     "rank": 98,
     "name": "Pavel Sokolov",
-    "role": "Cloud Engineer (KE.U1.D1.G2)",
+    "role": "Cloud Engineer (KernelEdge)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/5.jpg')",
     "stats": [
       {
@@ -6707,7 +6707,7 @@ const employees = [
   {
     "rank": 99,
     "name": "Nikolai Belov",
-    "role": "QA Engineer (BH.U1.D1.G1)",
+    "role": "QA Engineer (BrightHub)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/9.jpg')",
     "stats": [
       {
@@ -6731,7 +6731,7 @@ const employees = [
   {
     "rank": 100,
     "name": "Vladislav Frolov",
-    "role": "Project Manager (AG.U1.D1.G2)",
+    "role": "Project Manager (AgileGroup)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/90.jpg')",
     "stats": [
       {
@@ -6763,7 +6763,7 @@ const employees = [
   {
     "rank": 101,
     "name": "Artem Fedorov",
-    "role": "Tech Lead (ME.U1.D1.G1.T1)",
+    "role": "Tech Lead (MetaEdge)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/28.jpg')",
     "stats": [
       {
@@ -6803,7 +6803,7 @@ const employees = [
   {
     "rank": 102,
     "name": "Vitali Popov",
-    "role": "Group Manager (KH.U1.D3)",
+    "role": "Group Manager (KryptonHub)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/26.jpg')",
     "stats": [
       {
@@ -6827,7 +6827,7 @@ const employees = [
   {
     "rank": 103,
     "name": "Yuri Fedorov",
-    "role": "Full Stack Developer (CU.U1.D1.G1)",
+    "role": "Full Stack Developer (CubeUnit)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/92.jpg')",
     "stats": [
       {
@@ -6867,7 +6867,7 @@ const employees = [
   {
     "rank": 104,
     "name": "Evgeni Shvedov",
-    "role": "Automation QA Engineer (KS.U1.D1.G1.T1)",
+    "role": "Automation QA Engineer (KinetixSys)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/68.jpg')",
     "stats": [
       {
@@ -6907,7 +6907,7 @@ const employees = [
   {
     "rank": 105,
     "name": "Kirill Lebedev",
-    "role": "Senior Backend Developer (KH.G6)",
+    "role": "Senior Backend Developer (KernelHub)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/33.jpg')",
     "stats": [
       {
@@ -6947,7 +6947,7 @@ const employees = [
   {
     "rank": 106,
     "name": "Tatiana Kravchenko",
-    "role": "Lead QA Engineer (FT.U1.D1.G1)",
+    "role": "Lead QA Engineer (FireTorch)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/women/10.jpg')",
     "stats": [
       {
@@ -7003,7 +7003,7 @@ const employees = [
   {
     "rank": 107,
     "name": "Gleb Gusev",
-    "role": "Senior Business Analyst (TD.U1.D1.G1)",
+    "role": "Senior Business Analyst (TitanDrift)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/70.jpg')",
     "stats": [
       {
@@ -7035,7 +7035,7 @@ const employees = [
   {
     "rank": 108,
     "name": "Georgi Kravchenko",
-    "role": "Business Analyst (NG.U1.DQA2.T1)",
+    "role": "Business Analyst (NovumGrid)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/11.jpg')",
     "stats": [
       {
@@ -7075,7 +7075,7 @@ const employees = [
   {
     "rank": 109,
     "name": "Aleksei Korolev",
-    "role": "Automation QA Engineer (SH.U1.D3.T1)",
+    "role": "Automation QA Engineer (ShiftHub)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/15.jpg')",
     "stats": [
       {
@@ -7107,7 +7107,7 @@ const employees = [
   {
     "rank": 110,
     "name": "Larisa Golubev",
-    "role": "Security Engineer (PT.G6)",
+    "role": "Security Engineer (ProtonTech)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/women/27.jpg')",
     "stats": [
       {
@@ -7147,7 +7147,7 @@ const employees = [
   {
     "rank": 111,
     "name": "Bogdan Savenko",
-    "role": "Team Lead (SU.U1.DQA2.T1)",
+    "role": "Team Lead (SunUnit)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/98.jpg')",
     "stats": [
       {
@@ -7187,7 +7187,7 @@ const employees = [
   {
     "rank": 112,
     "name": "Gleb Semyonov",
-    "role": "Security Engineer (SA.U1.D1.G1.T1)",
+    "role": "Security Engineer (SolarArch)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/42.jpg')",
     "stats": [
       {
@@ -7227,7 +7227,7 @@ const employees = [
   {
     "rank": 113,
     "name": "Stanislav Tymoshenko",
-    "role": "Tech Lead (RHN.TAD.SO)",
+    "role": "Tech Lead (RhinoNet)",
     "avatarStyle": "background-image:url('https://randomuser.me/api/portraits/men/23.jpg')",
     "stats": [
       {
