@@ -396,7 +396,6 @@
                                                                                                                                 if (titleEl) titleEl.textContent = option.textContent.trim();
                                                                                                                                 listbox.querySelectorAll('[role="option"]').forEach(function (o) {
                                                                                                                                     o.setAttribute('aria-selected', o === option ? 'true' : 'false');
-                                                                                                                                    o.style.fontWeight = o === option ? '600' : '';
                                                                                                                                 });
                                                                                                                                 listbox.style.display = 'none';
                                                                                                                                 combobox2.setAttribute('aria-expanded', 'false');
