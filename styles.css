@@ -2200,7 +2200,14 @@
         text-align: center;
         color: rgb(41, 41, 43);
         cursor: text;
-        transition: width 0.167s
+        transition: width 0.167s, opacity 0.167s, transform 0.167s;
+        overflow: hidden
+    }
+
+    .root-190.is-active .iconContainer-191 {
+        width: 0;
+        opacity: 0;
+        transform: translateX(-10px)
     }
 
     .clearButton-193:hover .ms-Button {
@@ -2242,6 +2249,23 @@
         font-family: "Fluent MDL2 Hybrid Icons";
         opacity: 1;
         transition: opacity 0.167s
+    }
+
+    .icon-253 {
+        display: inline-block;
+        -webkit-font-smoothing: antialiased;
+        font-style: normal;
+        font-weight: normal;
+        speak: none;
+        font-family: "Fluent MDL2 Hybrid Icons";
+        opacity: 1;
+        transition: opacity 0.167s
+    }
+
+    .icon-253::before {
+        content: "\E721";
+        display: inline-block;
+        transform: scaleX(-1)
     }
 
     @keyframes css-196 {

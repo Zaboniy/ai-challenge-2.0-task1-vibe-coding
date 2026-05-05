@@ -362,9 +362,7 @@
                                                                                                                                     class="ms-SearchBox root-190">
                                                                                                                                     <div aria-hidden="true"
                                                                                                                                         class="ms-SearchBox-iconContainer iconContainer-191">
-                                                                                                                                        <i aria-hidden="true"
-                                                                                                                                            class="ms-SearchBox-icon icon-195"
-                                                                                                                                            data-icon-name="Search"></i>
+                                                                                                                                        <i data-icon-name="Search" aria-hidden="true" class="ms-SearchBox-icon icon-253"></i>
                                                                                                                                     </div>
                                                                                                                                     <input
                                                                                                                                         class="ms-SearchBox-field field-194"
@@ -422,6 +420,17 @@
                                                                                                                             if (cb) cb.setAttribute('aria-expanded', 'false');
                                                                                                                         });
                                                                                                                     });
+
+                                                                                                                    var searchInput = document.getElementById('SearchBox7');
+                                                                                                                    if (searchInput) {
+                                                                                                                        var searchRoot = searchInput.closest('.root-190');
+                                                                                                                        searchInput.addEventListener('focus', function () {
+                                                                                                                            if (searchRoot) searchRoot.classList.add('is-active');
+                                                                                                                        });
+                                                                                                                        searchInput.addEventListener('blur', function () {
+                                                                                                                            if (searchRoot && !searchInput.value) searchRoot.classList.remove('is-active');
+                                                                                                                        });
+                                                                                                                    }
                                                                                                                 })();
                                                                                                             </script>
                                                                                                             <script
