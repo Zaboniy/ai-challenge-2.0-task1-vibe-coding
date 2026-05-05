@@ -7258,25 +7258,89 @@ const employees = [
   }
 ];
 
+
+const filterState = { quarter: '', category: '', sortByName: false, search: '' };
+
+const CAT_ICONS = {
+  'Public Speaking': 'Presentation',
+  'Education': 'Education',
+  'University Partnership': 'Emoji2'
+};
+
+function getFilteredEmployees() {
+  const activeFilter = filterState.quarter || filterState.category;
+  let result = employees.map(emp => {
+    let acts = (emp.activities || []).slice();
+    if (filterState.quarter) acts = acts.filter(a => a.quarter === filterState.quarter);
+    if (filterState.category) acts = acts.filter(a => a.category === filterState.category);
+    const filteredScore = acts.reduce((sum, a) => sum + parseInt(a.points), 0);
+    return Object.assign({}, emp, { filteredActs: acts, filteredScore });
+  });
+
+  if (activeFilter) result = result.filter(emp => emp.filteredActs.length > 0);
+
+  if (filterState.search) {
+    const q = filterState.search.toLowerCase();
+    result = result.filter(emp => emp.name.toLowerCase().includes(q));
+  }
+
+  if (filterState.sortByName) {
+    result.sort((a, b) => a.name.localeCompare(b.name));
+  } else {
+    result.sort((a, b) => {
+      const sa = activeFilter ? a.filteredScore : a.score;
+      const sb = activeFilter ? b.filteredScore : b.score;
+      return sb - sa;
+    });
+  }
+
+  return result;
+}
+
 function renderEmployeeList() {
   const container = document.querySelector('.list_2943a085');
   if (!container) return;
 
-  container.innerHTML = employees.map((emp) => {
-    const statsHtml = emp.stats.map(s => `
-      <div class="ms-TooltipHost root-204" role="none">
-        <div class="categoryStat_2943a085">
-          <i data-icon-name="${s.icon}" aria-hidden="true" class="categoryStatIcon_2943a085 root-203"></i>
-          <span class="categoryStatCount_2943a085">${s.count}</span>
-        </div>
-        <div hidden style="position:absolute;width:1px;height:1px;margin:-1px;padding:0px;border:0px;overflow:hidden;white-space:nowrap" class="sf-hidden">${s.label}</div>
-      </div>`).join('');
+  const list = getFilteredEmployees();
+  const activeFilter = filterState.quarter || filterState.category;
 
-    const activitiesHtml = emp.activities && emp.activities.length
+  if (!list.length) {
+    container.innerHTML = '<p class="noActivity_2943a085" style="padding:24px;text-align:center">No results found</p>';
+    return;
+  }
+
+  container.innerHTML = list.map((emp, idx) => {
+    const displayRank = filterState.sortByName ? '·' : (idx + 1);
+    const displayScore = activeFilter ? emp.filteredScore : emp.score;
+    const acts = emp.filteredActs;
+
+    let statsHtml;
+    if (activeFilter) {
+      const catCounts = {};
+      acts.forEach(a => { catCounts[a.category] = (catCounts[a.category] || 0) + 1; });
+      statsHtml = Object.entries(catCounts).map(([cat, count]) => `
+        <div class="ms-TooltipHost root-204" role="none">
+          <div class="categoryStat_2943a085">
+            <i data-icon-name="${CAT_ICONS[cat] || 'Education'}" aria-hidden="true" class="categoryStatIcon_2943a085 root-203"></i>
+            <span class="categoryStatCount_2943a085">${count}</span>
+          </div>
+        </div>`).join('') || '';
+    } else {
+      statsHtml = emp.stats.map(s => `
+        <div class="ms-TooltipHost root-204" role="none">
+          <div class="categoryStat_2943a085">
+            <i data-icon-name="${s.icon}" aria-hidden="true" class="categoryStatIcon_2943a085 root-203"></i>
+            <span class="categoryStatCount_2943a085">${s.count}</span>
+          </div>
+          <div hidden style="position:absolute;width:1px;height:1px;margin:-1px;padding:0px;border:0px;overflow:hidden;white-space:nowrap" class="sf-hidden">${s.label}</div>
+        </div>`).join('');
+    }
+
+    const activitiesHtml = acts.length
       ? `<div class="tableWrapper_2943a085">
           <table class="activityTable_2943a085">
             <thead><tr><th>Activity</th><th>Category</th><th>Date</th><th>Points</th></tr></thead>
-            <tbody>${emp.activities.map(a => `
+            <tbody>${acts.map(a => `
               <tr>
                 <td class="activityName_2943a085">${a.name}</td>
                 <td><span class="categoryBadge_2943a085 categoryDefault_2943a085">${a.category}</span></td>
@@ -7286,14 +7350,14 @@ function renderEmployeeList() {
             </tbody>
           </table>
         </div>`
-      : `<p class="noActivity_2943a085">No activity data available</p>`;
+      : `<p class="noActivity_2943a085">No matching activities</p>`;
 
     return `
       <div class="userRowContainer_2943a085">
         <div class="row_2943a085">
           <div class="rowMain_2943a085">
             <div class="rowLeft_2943a085">
-              <span class="rank_2943a085">${emp.rank}</span>
+              <span class="rank_2943a085">${displayRank}</span>
               <div class="avatar_2943a085" style="${emp.avatarStyle}"></div>
               <div class="info_2943a085">
                 <h3 class="name_2943a085">${emp.name}</h3>
@@ -7306,7 +7370,7 @@ function renderEmployeeList() {
                 <span class="totalLabel_2943a085">TOTAL</span>
                 <div class="score_2943a085">
                   <i data-icon-name="FavoriteStarFill" aria-hidden="true" class="root-203"></i>
-                  <span>${emp.score}</span>
+                  <span>${displayScore}</span>
                 </div>
               </div>
               <button class="expandButton_2943a085" aria-label="Expand">
@@ -7333,8 +7397,6 @@ function renderEmployeeList() {
     btn.setAttribute('aria-label', expanded ? 'Collapse' : 'Expand');
   });
 }
-
-renderEmployeeList();
 
 function renderPodium() {
   const container = document.querySelector('.podium_2943a085');
@@ -7371,4 +7433,32 @@ function renderPodium() {
     podiumColumn(third,  'podiumRank3_2943a085', 80, 32);
 }
 
-renderPodium();
+function initFilters() {
+  document.addEventListener('click', function(e) {
+    const opt = e.target.closest('[role="option"]');
+    if (!opt) return;
+    const listbox = opt.closest('[role="listbox"]');
+    if (!listbox) return;
+    const value = opt.dataset.value !== undefined ? opt.dataset.value : '';
+    if (listbox.id === 'Dropdown5-list') {
+      filterState.quarter = value;
+      renderEmployeeList();
+    } else if (listbox.id === 'Dropdown6-list') {
+      filterState.category = value;
+      renderEmployeeList();
+    }
+  });
+
+  const searchInput = document.getElementById('SearchBox7');
+  if (searchInput) {
+    searchInput.addEventListener('input', function() {
+      filterState.search = this.value.trim();
+      renderEmployeeList();
+    });
+  }
+
+  renderEmployeeList();
+  renderPodium();
+}
+
+initFilters();

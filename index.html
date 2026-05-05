@@ -313,9 +313,9 @@
                                                                                                                                                 class="ms-Dropdown-caretDown caretDown-188"
                                                                                                                                                 data-icon-name="ChevronDown"></i></span>
                                                                                                                                                                                                                                                                                         <div class="ms-Dropdown-items-wrapper"
-                                                                                                                                            id="Dropdown4-list"
+                                                                                                                                            id="Dropdown6-list"
                                                                                                                                             role="listbox"
-                                                                                                                                            aria-labelledby="Dropdown4-option"
+                                                                                                                                            aria-labelledby="Dropdown6-option"
                                                                                                                                             style="display:none;position:absolute;background:#fff;border:1px solid rgb(55,55,55);min-width:120px;z-index:9999;box-shadow:0 4px 8px rgba(0,0,0,.15)">
                                                                                                                                             <div class="ms-Dropdown-item"
                                                                                                                                                 role="option"
@@ -389,16 +389,6 @@
                                                                                                             <script>
                                                                                                                 (function () {
                                                                                                                     document.addEventListener('click', function (e) {
-                                                                                                                        var combobox = e.target.closest('[role="combobox"]');
-                                                                                                                        if (combobox) {
-                                                                                                                            var list = combobox.querySelector('[role="listbox"]');
-                                                                                                                            if (!list) return;
-                                                                                                                            var open = list.style.display !== 'none';
-                                                                                                                            list.style.display = open ? 'none' : 'block';
-                                                                                                                            combobox.setAttribute('aria-expanded', String(!open));
-                                                                                                                            e.stopPropagation();
-                                                                                                                            return;
-                                                                                                                        }
                                                                                                                         var option = e.target.closest('[role="option"]');
                                                                                                                         if (option) {
                                                                                                                             var listbox = option.closest('[role="listbox"]');
@@ -413,6 +403,16 @@
                                                                                                                                 listbox.style.display = 'none';
                                                                                                                                 combobox2.setAttribute('aria-expanded', 'false');
                                                                                                                             }
+                                                                                                                            e.stopPropagation();
+                                                                                                                            return;
+                                                                                                                        }
+                                                                                                                        var combobox = e.target.closest('[role="combobox"]');
+                                                                                                                        if (combobox) {
+                                                                                                                            var list = combobox.querySelector('[role="listbox"]');
+                                                                                                                            if (!list) return;
+                                                                                                                            var open = list.style.display !== 'none';
+                                                                                                                            list.style.display = open ? 'none' : 'block';
+                                                                                                                            combobox.setAttribute('aria-expanded', String(!open));
                                                                                                                             e.stopPropagation();
                                                                                                                             return;
                                                                                                                         }
